@@ -1,12 +1,12 @@
 import type { EventItem } from "@/lib/types";
 
 const GROUP_COLOR_MAP: Record<string, string> = {
-  "KAWAII LAB.": "bg-kawaii-purple",
-  "FRUITS ZIPPER": "bg-kawaii-pink",
-  "CANDY TUNE": "bg-kawaii-yellow",
-  "SWEET STEADY": "bg-kawaii-mint",
-  "CUTIE STREET": "bg-kawaii-pink",
-  "MORE STAR": "bg-kawaii-purple",
+  "KAWAII LAB.": "bg-pink-500",
+  "FRUITS ZIPPER": "bg-red-500",
+  "CANDY TUNE": "bg-sky-400",
+  "SWEET STEADY": "bg-pink-200",
+  "CUTIE STREET": "bg-yellow-400",
+  "MORE STAR": "bg-orange-500",
 };
 
 function formatDisplayDate(eventDate: string | null): string {
@@ -20,6 +20,11 @@ function formatDisplayDate(eventDate: string | null): string {
 
 export default function EventCard({ event }: { event: EventItem }) {
   const badgeColor = GROUP_COLOR_MAP[event.groupName] ?? "bg-kawaii-pink";
+  // 背景色が淡いバッジは白文字だと読みにくいため、濃い文字色を使う
+  const LIGHT_BADGES = ["CUTIE STREET", "SWEET STEADY"];
+  const badgeTextColor = LIGHT_BADGES.includes(event.groupName)
+    ? "text-gray-800"
+    : "text-white";
 
   return (
     <a
@@ -29,7 +34,7 @@ export default function EventCard({ event }: { event: EventItem }) {
       className="block rounded-2xl bg-white p-4 shadow-sm ring-1 ring-pink-100 transition hover:-translate-y-0.5 hover:shadow-md"
     >
       <span
-        className={`inline-block rounded-full px-3 py-1 text-xs font-bold text-white ${badgeColor}`}
+        className={`inline-block rounded-full px-3 py-1 text-xs font-bold ${badgeTextColor} ${badgeColor}`}
       >
         {event.groupName}
       </span>

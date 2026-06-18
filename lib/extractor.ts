@@ -22,6 +22,8 @@ function normalizeText(text: string): string {
     )
     .replace(/[（]/g, "(")
     .replace(/[）]/g, ")")
+    .replace(/[［]/g, "[")
+    .replace(/[］]/g, "]")
     .replace(/[〜～]/g, "~")
     .replace(/\s+/g, " ")
     .trim();
@@ -65,10 +67,26 @@ export function extractEventName(rawTitle: string): string {
   const beforeAt = normalized.split(/[@＠]/)[0];
   return beforeAt
     .replace(/^[\s【】\[\]]+/, "")
+    // 先頭の日付プレフィックスを除去（例: "06 01［mon］", "6/1(月)", "06.01[Mon]" など）
+    .replace(EVENT_NAME_DATE_PREFIX, "")
+    .replace(/^[\s【】\[\]]+/, "")
     .replace(/開催決定[！!]?$/, "")
     .replace(/のお知らせ$/, "")
     .trim();
 }
+
+/**
+ * イベント名先頭につく日付表記を取り除くためのパターン。
+ * 「06 01［mon］イベント名」「6/1(月)イベント名」のように、
+ * 月日＋曜日（括弧・角括弧いずれも normalizeText で半角に統一済み）が
+ * 先頭にある場合にマッチする。
+ * 曜日は日本語（月〜日）・英語省略形（Mon〜Sun、大文字小文字問わず）どちらにも対応。
+ */
+const EVENT_NAME_DATE_PREFIX = new RegExp(
+  "^(\\d{1,2})[\\s./-](\\d{1,2})\\s*" +
+    "[\\(\\[]\\s*(?:月|火|水|木|金|土|日|mon|tue|wed|thu|fri|sat|sun)\\s*[\\)\\]]\\s*",
+  "i"
+);
 
 /**
  * 年が分からない月日だけの日付を補完するための基準年。
