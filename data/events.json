@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-19T03:01:52.341Z",
-  "count": 96,
+  "updatedAt": "2026-06-19T14:45:58.833Z",
+  "count": 100,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/39699",
@@ -366,6 +366,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "MORE STAR__https://morestar.fanpla.jp/news/detail/82405",
+      "groupName": "MORE STAR",
+      "eventName": "RADIO ニッポン放送『有楽町KAWAII LAB. KAWAII研究中！』(萩田、森田)",
+      "eventDate": "2026-06-11 21:30",
+      "sortDate": "2026-06-11T21:30:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/news/detail/82405",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/38950",
       "groupName": "KAWAII LAB.",
       "eventName": "EVENT KAWAII LAB.&PEAK SPOT 大特典会",
@@ -597,6 +608,17 @@
       "sourceId": "kawaii-lab"
     },
     {
+      "id": "MORE STAR__https://morestar.fanpla.jp/news/detail/82403",
+      "groupName": "MORE STAR",
+      "eventName": "TV CBCテレビ 『道との遭遇』(遠藤)",
+      "eventDate": "2026-06-16 23:56",
+      "sortDate": "2026-06-16T23:56:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/news/detail/82403",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/30859",
       "groupName": "CUTIE STREET",
       "eventName": "LIVE CUTIE STREET 単独LIVE-05 STREET- Day1",
@@ -606,6 +628,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/30859",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/news/detail/82404",
+      "groupName": "MORE STAR",
+      "eventName": "MAGAZINE 『LARME 069』(鈴木、山本)",
+      "eventDate": "2026-06-17",
+      "sortDate": "2026-06-17T00:00:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/news/detail/82404",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/30860",
@@ -639,6 +672,17 @@
       "detailUrl": "https://candytune.asobisystem.com/news/detail/82247",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/news/detail/82401",
+      "groupName": "MORE STAR",
+      "eventName": "RADIO ニッポン放送『有楽町KAWAII LAB. KAWAII研究中！』(新井、森田)",
+      "eventDate": "2026-06-18 21:30",
+      "sortDate": "2026-06-18T21:30:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/news/detail/82401",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/80572",
