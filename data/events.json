@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T14:45:58.833Z",
+  "updatedAt": "2026-06-20T02:34:37.353Z",
   "count": 100,
   "events": [
     {
@@ -100,17 +100,6 @@
       "detailUrl": "https://morestar.fanpla.jp/news/detail/77137",
       "publishedDate": null,
       "sourceId": "more-star"
-    },
-    {
-      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/80564",
-      "groupName": "FRUITS ZIPPER",
-      "eventName": "TV テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
-      "eventDate": "2026-06-04 01:25",
-      "sortDate": "2026-06-04T01:25:00",
-      "venue": null,
-      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/80564",
-      "publishedDate": null,
-      "sourceId": "fruits-zipper"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/81083",
@@ -1101,6 +1090,17 @@
       "detailUrl": "https://morestar.fanpla.jp/news/detail/78659",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/80564",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
+      "eventDate": null,
+      "sortDate": null,
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/80564",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     }
   ]
 }
