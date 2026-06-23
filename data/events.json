@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-23T02:27:09.903Z",
-  "count": 100,
+  "updatedAt": "2026-06-23T14:30:23.801Z",
+  "count": 101,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/39699",
@@ -837,6 +837,17 @@
       "detailUrl": "https://candytune.asobisystem.com/news/detail/81369",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/news/detail/82649",
+      "groupName": "MORE STAR",
+      "eventName": "TV テレビ朝日『START UP!ドリームエンタ』(山本)",
+      "eventDate": "2026-06-23",
+      "sortDate": "2026-06-23T00:00:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/news/detail/82649",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/30822",
