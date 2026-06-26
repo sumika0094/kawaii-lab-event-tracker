@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-26T02:32:16.305Z",
-  "count": 101,
+  "updatedAt": "2026-06-26T14:06:08.951Z",
+  "count": 107,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/39699",
@@ -905,6 +905,28 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "MORE STAR__https://morestar.fanpla.jp/news/detail/83006",
+      "groupName": "MORE STAR",
+      "eventName": "RADIO ニッポン放送 『有楽町KAWAII LAB. KAWAII研究中！』高梨、森田",
+      "eventDate": "2026-06-25 21:30",
+      "sortDate": "2026-06-25T21:30:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/news/detail/83006",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/82989",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV TBS テレビ『ハマダ歌謡祭』(奥田、白石)",
+      "eventDate": "2026-06-26 19:00",
+      "sortDate": "2026-06-26T19:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/82989",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/80573",
       "groupName": "FRUITS ZIPPER",
       "eventName": "RADIO RKBラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
@@ -912,6 +934,17 @@
       "sortDate": "2026-06-26T23:30:00",
       "venue": "rkbr_info にて❤️FRUITS ZIPPER #月足天音RKBラジオ「",
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/80573",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/82963",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV 日本テレビ系列「バズリズム02」",
+      "eventDate": "2026-06-27",
+      "sortDate": "2026-06-27T00:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/82963",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
@@ -958,6 +991,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/38805",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/82990",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV フジテレビ系『千原ジュニアのヘベレケSP』",
+      "eventDate": "2026-06-27 23:40",
+      "sortDate": "2026-06-27T23:40:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/82990",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/38939",
@@ -1013,6 +1057,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/56531",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/82991",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV テレビ朝日『ゲームズ・ボンド』",
+      "eventDate": "2026-06-28 01:55",
+      "sortDate": "2026-06-28T01:55:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/82991",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/81396",
@@ -1101,6 +1156,17 @@
       "detailUrl": "https://candytune.asobisystem.com/news/detail/79259",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/82995",
+      "groupName": "SWEET STEADY",
+      "eventName": "MAGAZINE 『Zipper 2026年夏号』",
+      "eventDate": "2026-06-30",
+      "sortDate": "2026-06-30T00:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/82995",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
     },
     {
       "id": "MORE STAR__https://morestar.fanpla.jp/news/detail/78659",
