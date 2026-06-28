@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-27T13:12:56.404Z",
-  "count": 107,
+  "updatedAt": "2026-06-28T02:38:20.699Z",
+  "count": 108,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/39699",
@@ -1026,17 +1026,6 @@
       "sourceId": "kawaii-lab"
     },
     {
-      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40461",
-      "groupName": "FRUITS ZIPPER",
-      "eventName": "EVENT FRUITS ZIPPER 5thシングルCD発売記念イベント 大特典会",
-      "eventDate": "2026-06-28",
-      "sortDate": "2026-06-28T00:00:00",
-      "venue": "ベルサール渋谷ガーデン 公演日 2026.06.28[SUN] 開催場所・会場",
-      "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40461",
-      "publishedDate": null,
-      "sourceId": "fruits-zipper"
-    },
-    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/38812",
       "groupName": "CANDY TUNE",
       "eventName": "LIVE 「KAWAII LAB. SESSION in NAGASAKI Day2」",
@@ -1079,6 +1068,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/81396",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40461",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "EVENT FRUITS ZIPPER 5thシングルCD発売記念イベント 大特典会",
+      "eventDate": "2026-06-28 09:00",
+      "sortDate": "2026-06-28T09:00:00",
+      "venue": "ベルサール渋谷ガーデン 公演日 2026.06.28[SUN] 開催場所・会場",
+      "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40461",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/38823",
@@ -1145,6 +1145,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/39828",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/83093",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV 日本テレビ系「夜の音-TOKYO MIDNIGHT MUSIC-」",
+      "eventDate": "2026-06-30",
+      "sortDate": "2026-06-30T00:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/83093",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/79259",
