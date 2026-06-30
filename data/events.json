@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-30T02:32:19.488Z",
-  "count": 108,
+  "updatedAt": "2026-06-30T13:58:58.050Z",
+  "count": 110,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/39699",
@@ -1180,6 +1180,17 @@
       "sourceId": "sweet-steady"
     },
     {
+      "id": "MORE STAR__https://morestar.fanpla.jp/news/detail/83318",
+      "groupName": "MORE STAR",
+      "eventName": "TV テレビ朝日 『START UP!ドリームエンタ』(山本)",
+      "eventDate": "2026-06-30",
+      "sortDate": "2026-06-30T00:00:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/news/detail/83318",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
       "id": "MORE STAR__https://morestar.fanpla.jp/news/detail/78659",
       "groupName": "MORE STAR",
       "eventName": "MAGAZINE Zipper 2026年 夏号",
@@ -1187,6 +1198,17 @@
       "sortDate": "2026-06-30T00:00:00",
       "venue": null,
       "detailUrl": "https://morestar.fanpla.jp/news/detail/78659",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/news/detail/83336",
+      "groupName": "MORE STAR",
+      "eventName": "TV CBCテレビ 『道との遭遇』(遠藤)",
+      "eventDate": "2026-06-30 23:56",
+      "sortDate": "2026-06-30T23:56:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/news/detail/83336",
       "publishedDate": null,
       "sourceId": "more-star"
     }
