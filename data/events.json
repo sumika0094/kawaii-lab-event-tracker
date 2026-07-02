@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-02T02:28:24.564Z",
-  "count": 80,
+  "updatedAt": "2026-07-02T13:31:49.066Z",
+  "count": 81,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -34,6 +34,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/81672",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/83572",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO 「有楽町KAWAII LAB. KAWAII研究中！」(南・桐原)",
+      "eventDate": "2026-07-02 21:30",
+      "sortDate": "2026-07-02T21:30:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/83572",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56297",
