@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-03T02:03:20.465Z",
-  "count": 81,
+  "updatedAt": "2026-07-03T13:45:31.343Z",
+  "count": 83,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -322,6 +322,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/41841",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT 「GMO 渋谷エンタメ祭2026」 オープニングセレモニー",
+      "eventDate": "2026-07-11 10:30",
+      "sortDate": "2026-07-11T10:30:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/41841",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/39283",
       "groupName": "SWEET STEADY",
       "eventName": "LIVE 『KAWAII LAB. SESSION 2026 SUMMER』Day2",
@@ -386,6 +397,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/39567",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/41840",
+      "groupName": "CANDY TUNE",
+      "eventName": "LIVE 「GMO渋谷エンタメ祭2026 presents TGM2026」",
+      "eventDate": "2026-07-12 18:00",
+      "sortDate": "2026-07-12T18:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/41840",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40025",
