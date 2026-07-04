@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-03T13:45:31.343Z",
-  "count": 83,
+  "updatedAt": "2026-07-04T02:01:18.891Z",
+  "count": 84,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -89,6 +89,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/30824",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/83717",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV 日テレ系「THE MUSIC DAY 2026」",
+      "eventDate": "2026-07-04 13:30",
+      "sortDate": "2026-07-04T13:30:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/83717",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/41562",
