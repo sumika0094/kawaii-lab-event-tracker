@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-04T02:01:18.891Z",
-  "count": 84,
+  "updatedAt": "2026-07-04T13:02:34.432Z",
+  "count": 86,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -67,6 +67,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/56312",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/news/detail/83743",
+      "groupName": "MORE STAR",
+      "eventName": "TV テレビ朝日 『イベレコ』(新井、遠藤)",
+      "eventDate": "2026-07-03 02:45",
+      "sortDate": "2026-07-03T02:45:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/news/detail/83743",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40024",
@@ -399,6 +410,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/41868",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE GMO 渋谷エンタメ祭2026 JAMEエンタメステージ",
+      "eventDate": "2026-07-12",
+      "sortDate": "2026-07-12T00:00:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/41868",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/39567",
       "groupName": "FRUITS ZIPPER",
       "eventName": "EVENT EIGHT JAM FES",
@@ -443,17 +465,6 @@
       "sourceId": "fruits-zipper"
     },
     {
-      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40462",
-      "groupName": "FRUITS ZIPPER",
-      "eventName": "EVENT FRUITS ZIPPER 5thシングルCD発売記念イベント 仲川、早瀬、真中",
-      "eventDate": "2026-07-16",
-      "sortDate": "2026-07-16T00:00:00",
-      "venue": "関東某所 公演日 2026.07.16[THU] 開催場所・会場 その他 関東某",
-      "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40462",
-      "publishedDate": null,
-      "sourceId": "fruits-zipper"
-    },
-    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40463",
       "groupName": "FRUITS ZIPPER",
       "eventName": "EVENT FRUITS ZIPPER 5thシングルCD発売記念イベント 松本",
@@ -461,6 +472,17 @@
       "sortDate": "2026-07-16T00:00:00",
       "venue": "千葉県某所 公演日 2026.07.16[THU] 開催場所・会場 千葉県 某所",
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40463",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40462",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "EVENT FRUITS ZIPPER 5thシングルCD発売記念イベント 仲川、早瀬、真中",
+      "eventDate": "2026-07-16 12:00",
+      "sortDate": "2026-07-16T12:00:00",
+      "venue": "アリオ橋本 公演日 2026.07.16[THU] 開催場所・会場 神奈川県 ア",
+      "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40462",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
