@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-07T02:09:43.836Z",
-  "count": 86,
+  "updatedAt": "2026-07-07T14:10:11.119Z",
+  "count": 88,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -232,6 +232,17 @@
       "detailUrl": "https://kawaiilab.asobisystem.com/news/detail/56275",
       "publishedDate": null,
       "sourceId": "kawaii-lab"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/news/detail/83998",
+      "groupName": "MORE STAR",
+      "eventName": "TV テレビ朝日 『START UP！ドリームエンタ』(遠藤、森田)",
+      "eventDate": "2026-07-07",
+      "sortDate": "2026-07-07T00:00:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/news/detail/83998",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/33221",
@@ -518,6 +529,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/81491",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/news/detail/84005",
+      "groupName": "MORE STAR",
+      "eventName": "TV TBS『音楽の日 2026』(萩田)",
+      "eventDate": "2026-07-18 14:00",
+      "sortDate": "2026-07-18T14:00:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/news/detail/84005",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56457",
