@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-08T01:50:32.355Z",
-  "count": 88,
+  "updatedAt": "2026-07-08T13:43:10.984Z",
+  "count": 90,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -320,6 +320,28 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/38985",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/84219",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV フジテレビ「坂上どうぶつ王国」(鎮西)",
+      "eventDate": "2026-07-10 19:00",
+      "sortDate": "2026-07-10T19:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/84219",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/84225",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV フジテレビ『全力！脱力タイムズ』 (鎮西)",
+      "eventDate": "2026-07-10 23:00",
+      "sortDate": "2026-07-10T23:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/84225",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/38952",
