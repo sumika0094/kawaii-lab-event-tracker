@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-12T01:51:45.381Z",
-  "count": 90,
+  "updatedAt": "2026-07-12T12:59:08.691Z",
+  "count": 91,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -527,6 +527,17 @@
       "sortDate": "2026-07-17T17:15:00",
       "venue": "Zepp ShinjukuOPEN 17:15 / START 18:00▼チケ",
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/40752",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/42241",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
+      "eventDate": "2026-07-18 09:00",
+      "sortDate": "2026-07-18T09:00:00",
+      "venue": "ところざわサクラタウン 千人テラス 公演日 2026.07.18[SAT] 開催",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/42241",
       "publishedDate": null,
       "sourceId": "more-star"
     },
