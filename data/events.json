@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-14T01:30:50.914Z",
-  "count": 91,
+  "updatedAt": "2026-07-14T13:11:23.481Z",
+  "count": 92,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -617,6 +617,17 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/37024",
       "publishedDate": null,
       "sourceId": "sweet-steady"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/42304",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
+      "eventDate": "2026-07-19 10:00",
+      "sortDate": "2026-07-19T10:00:00",
+      "venue": "ららぽーと豊洲 シーサイドデッキ メインステージ 公演日 2026.07.19[",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/42304",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/37022",
