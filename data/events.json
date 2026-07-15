@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-14T13:11:23.481Z",
-  "count": 92,
+  "updatedAt": "2026-07-15T01:27:35.463Z",
+  "count": 94,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -498,6 +498,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/42322",
+      "groupName": "KAWAII LAB.",
+      "eventName": "LIVE ONE AND ONLY 2nd Anniversary day1",
+      "eventDate": "2026-07-15 15:00",
+      "sortDate": "2026-07-15T15:00:00",
+      "venue": null,
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/42322",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40463",
       "groupName": "FRUITS ZIPPER",
       "eventName": "EVENT FRUITS ZIPPER 5thシングルCD発売記念イベント 松本",
@@ -518,6 +529,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40462",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/42324",
+      "groupName": "KAWAII LAB.",
+      "eventName": "LIVE HANiKAMi vol.4",
+      "eventDate": "2026-07-17 17:15",
+      "sortDate": "2026-07-17T17:15:00",
+      "venue": "hanikami_idol#HANiKAMi #ハニカミ#KAWAIILAB #",
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/42324",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/40752",
