@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-15T01:27:35.463Z",
-  "count": 94,
+  "updatedAt": "2026-07-15T13:15:30.251Z",
+  "count": 95,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -659,6 +659,17 @@
       "sortDate": "2026-07-19T12:00:00",
       "venue": "いわみざわ公園 公演日 2026.07.19[SUN] 開催場所・会場 いわみざ",
       "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/37022",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/84779",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV テレビ東京「家、ついて行ってイイですか？」",
+      "eventDate": "2026-07-19 20:50",
+      "sortDate": "2026-07-19T20:50:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/84779",
       "publishedDate": null,
       "sourceId": "cutie-street"
     },
