@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-18T01:41:51.834Z",
-  "count": 95,
+  "updatedAt": "2026-07-18T12:54:59.186Z",
+  "count": 96,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -815,6 +815,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/41295",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/85093",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV TBSテレビ「ニンゲン観察バラエティ モニタリング」",
+      "eventDate": "2026-07-23 20:00",
+      "sortDate": "2026-07-23T20:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/85093",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/77197",
