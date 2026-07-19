@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-18T12:54:59.186Z",
-  "count": 96,
+  "updatedAt": "2026-07-19T01:49:31.561Z",
+  "count": 102,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -553,6 +553,17 @@
       "sourceId": "more-star"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/85140",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV CBCテレビ「お歌詞もぐもぐ」",
+      "eventDate": "2026-07-18",
+      "sortDate": "2026-07-18T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/85140",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/42241",
       "groupName": "MORE STAR",
       "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
@@ -573,6 +584,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/81498",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/85139",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV 『音楽の日2026』",
+      "eventDate": "2026-07-18 14:00",
+      "sortDate": "2026-07-18T14:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/85139",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/81491",
@@ -652,6 +674,17 @@
       "sourceId": "more-star"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/85137",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO 『CANDY TUNE 桐原美月の青色RADIO』(桐原美月)",
+      "eventDate": "2026-07-19 11:00",
+      "sortDate": "2026-07-19T11:00:00",
+      "venue": "lucky-ibaraki.com📱 http://lucky-ibaraki",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/85137",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/37022",
       "groupName": "CUTIE STREET",
       "eventName": "EVENT JOIN ALIVE 2026",
@@ -672,6 +705,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/84779",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/85138",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
+      "eventDate": "2026-07-19 21:00",
+      "sortDate": "2026-07-19T21:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/85138",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/41292",
@@ -784,6 +828,17 @@
       "sourceId": "sweet-steady"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/85141",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV 日本テレビ「上田と女が吠える夜」(福山梨乃)",
+      "eventDate": "2026-07-22 21:00",
+      "sortDate": "2026-07-22T21:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/85141",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/41410",
       "groupName": "FRUITS ZIPPER",
       "eventName": "EVENT SUMMER FES 音楽LIVE(櫻井)",
@@ -870,6 +925,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/36915",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/85136",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV NHK「Venue101」",
+      "eventDate": "2026-07-25 23:00",
+      "sortDate": "2026-07-25T23:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/85136",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/36752",
