@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-24T01:52:03.225Z",
-  "count": 103,
+  "updatedAt": "2026-07-24T13:20:12.784Z",
+  "count": 107,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -476,6 +476,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/85546",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV 『ヒューマングルメンタリー オモウマい店 2時間SP』",
+      "eventDate": "2026-07-14 07:00",
+      "sortDate": "2026-07-14T07:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/85546",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40025",
       "groupName": "FRUITS ZIPPER",
       "eventName": "LIVE FRUITS ZIPPER 4TH ANNIVERSARY ARENA TOUR「DREAM WITH IN」",
@@ -518,6 +529,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40463",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/85545",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV 『THE 突破ファイル 2時間SP』",
+      "eventDate": "2026-07-16 07:00",
+      "sortDate": "2026-07-16T07:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/85545",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40462",
@@ -892,6 +914,28 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/77197",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/85547",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV 『賞金先渡しクイズ SAVE MONEY ゴールデンSP』",
+      "eventDate": "2026-07-24 07:00",
+      "sortDate": "2026-07-24T07:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/85547",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/85548",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV 『ミュージックステーション』",
+      "eventDate": "2026-07-24 21:00",
+      "sortDate": "2026-07-24T21:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/85548",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/36806",
