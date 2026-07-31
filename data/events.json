@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-30T13:29:48.086Z",
-  "count": 107,
+  "updatedAt": "2026-07-31T01:56:34.301Z",
+  "count": 106,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40172",
@@ -45,17 +45,6 @@
       "detailUrl": "https://candytune.asobisystem.com/news/detail/83572",
       "publishedDate": null,
       "sourceId": "candy-tune"
-    },
-    {
-      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56297",
-      "groupName": "KAWAII LAB.",
-      "eventName": "OTHER 💜FRUITS ZIPPER 仲川瑠夏 BIRTHDAY💜",
-      "eventDate": "2026-07-03",
-      "sortDate": "2026-07-03T00:00:00",
-      "venue": "luna_luna073 SHARE BACK 07 03 [FRI] OTHE",
-      "detailUrl": "https://kawaiilab.asobisystem.com/news/detail/56297",
-      "publishedDate": null,
-      "sourceId": "kawaii-lab"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/56312",
@@ -641,17 +630,6 @@
       "sourceId": "more-star"
     },
     {
-      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56457",
-      "groupName": "KAWAII LAB.",
-      "eventName": "OTHER 🩷SWEET STEADY 栗田なつか BIRTHDAY🩷",
-      "eventDate": "2026-07-19",
-      "sortDate": "2026-07-19T00:00:00",
-      "venue": "n_wanwan3 SHARE BACK 07 19 [SUN] OTHER \ud83e",
-      "detailUrl": "https://kawaiilab.asobisystem.com/news/detail/56457",
-      "publishedDate": null,
-      "sourceId": "kawaii-lab"
-    },
-    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40465",
       "groupName": "FRUITS ZIPPER",
       "eventName": "EVENT FRUITS ZIPPER 5thシングルCD発売記念イベント 大特典会",
@@ -1112,6 +1090,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/40384",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43024",
+      "groupName": "KAWAII LAB.",
+      "eventName": "EVENT TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック",
+      "eventDate": "2026-07-31",
+      "sortDate": "2026-07-31T00:00:00",
+      "venue": "お台場・青海周辺エリア 公演日 2026.07.31[FRI] 開催場所・会場",
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/43024",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56461",
