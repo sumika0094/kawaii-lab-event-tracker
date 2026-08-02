@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-02T01:53:14.438Z",
-  "count": 38,
+  "updatedAt": "2026-08-02T13:00:23.116Z",
+  "count": 41,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -69,6 +69,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43122",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT 4th single 大特典会",
+      "eventDate": "2026-08-02 10:00",
+      "sortDate": "2026-08-02T10:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/43122",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/42790",
       "groupName": "MORE STAR",
       "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
@@ -100,6 +111,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/38413",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/86306",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV フジテレビ「突然ですが占ってもいいですか？」",
+      "eventDate": "2026-08-03",
+      "sortDate": "2026-08-03T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/86306",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/42323",
@@ -397,6 +419,17 @@
       "detailUrl": "https://morestar.fanpla.jp/news/detail/79077",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43118",
+      "groupName": "KAWAII LAB.",
+      "eventName": "LIVE BEEEEM FES Vol.7",
+      "eventDate": "2026-08-27 17:00",
+      "sortDate": "2026-08-27T17:00:00",
+      "venue": null,
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/43118",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40721",
