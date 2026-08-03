@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-03T01:55:45.484Z",
-  "count": 42,
+  "updatedAt": "2026-08-03T14:17:40.758Z",
+  "count": 43,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -133,6 +133,17 @@
       "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/42323",
       "publishedDate": null,
       "sourceId": "kawaii-lab"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/86377",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV 日テレ「有吉ゼミ」(福山梨乃・桐原美月)",
+      "eventDate": "2026-08-03 19:00",
+      "sortDate": "2026-08-03T19:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/86377",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/39416",
