@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-02T13:00:23.116Z",
-  "count": 41,
+  "updatedAt": "2026-08-03T01:55:45.484Z",
+  "count": 42,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -221,6 +221,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/39427",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/86324",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV TBSテレビ「ニンゲン観察バラエティ モニタリング」",
+      "eventDate": "2026-08-13 20:00",
+      "sortDate": "2026-08-13T20:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/86324",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/41646",
