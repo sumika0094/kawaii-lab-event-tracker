@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-03T14:17:40.758Z",
-  "count": 43,
+  "updatedAt": "2026-08-04T01:30:42.644Z",
+  "count": 46,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -168,6 +168,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/86434",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
+      "eventDate": "2026-08-06 01:25",
+      "sortDate": "2026-08-06T01:25:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/86434",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/35778",
       "groupName": "FRUITS ZIPPER",
       "eventName": "EVENT Lucky Fes'25",
@@ -221,6 +232,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/35909",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/86435",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
+      "eventDate": "2026-08-13 01:25",
+      "sortDate": "2026-08-13T01:25:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/86435",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/39427",
@@ -364,6 +386,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/40666",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/86436",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
+      "eventDate": "2026-08-20 01:25",
+      "sortDate": "2026-08-20T01:25:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/86436",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40107",
