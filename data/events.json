@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-04T01:30:42.644Z",
-  "count": 46,
+  "updatedAt": "2026-08-04T13:49:24.143Z",
+  "count": 53,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -47,6 +47,17 @@
       "sourceId": "more-star"
     },
     {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/86504",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV フジテレビ『ツギクル芸人グランプリ2026』",
+      "eventDate": "2026-08-01 15:00",
+      "sortDate": "2026-08-01T15:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/86504",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
+    },
+    {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/38412",
       "groupName": "MORE STAR",
       "eventName": "LIVE TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック",
@@ -69,6 +80,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/86506",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV TBS『サンデージャポン』",
+      "eventDate": "2026-08-02 09:54",
+      "sortDate": "2026-08-02T09:54:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/86506",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43122",
       "groupName": "CANDY TUNE",
       "eventName": "EVENT 4th single 大特典会",
@@ -89,6 +111,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/42790",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/43210",
+      "groupName": "SWEET STEADY",
+      "eventName": "EVENT 『3rdシングル SWEET STEP 発売記念リリースイベント』",
+      "eventDate": "2026-08-02 13:30",
+      "sortDate": "2026-08-02T13:30:00",
+      "venue": "セブンパークアリオ柏 屋外スマイルパーク 公演日 2026.08.02[SUN]",
+      "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/43210",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/42890",
@@ -179,6 +212,28 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/86507",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV TBS『この歌詞が刺さった！グッとフレーズ』",
+      "eventDate": "2026-08-06 07:00",
+      "sortDate": "2026-08-06T07:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/86507",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/43204",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
+      "eventDate": "2026-08-08 10:30",
+      "sortDate": "2026-08-08T10:30:00",
+      "venue": "ららぽーと柏の葉 センタープラザ 公演日 2026.08.08[SAT] 開催場",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/43204",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/35778",
       "groupName": "FRUITS ZIPPER",
       "eventName": "EVENT Lucky Fes'25",
@@ -221,6 +276,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/37421",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/43211",
+      "groupName": "SWEET STEADY",
+      "eventName": "EVENT 『3rdシングル SWEET STEP 発売記念リリースイベント』",
+      "eventDate": "2026-08-09 12:30",
+      "sortDate": "2026-08-09T12:30:00",
+      "venue": "ららぽーと豊洲 シーサイドデッキ メインステージ 公演日 2026.08.09[",
+      "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/43211",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/35909",
@@ -287,6 +353,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/39588",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/43203",
+      "groupName": "MORE STAR",
+      "eventName": "EVENT CANDY TUNE／MORE STAR 合同大特典会",
+      "eventDate": "2026-08-15 20:00",
+      "sortDate": "2026-08-15T20:00:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/43203",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56283",
