@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-06T01:44:41.013Z",
-  "count": 53,
+  "updatedAt": "2026-08-06T13:43:30.832Z",
+  "count": 54,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -221,6 +221,17 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/86507",
       "publishedDate": null,
       "sourceId": "sweet-steady"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43274",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT ひんやりKITTE オープニングセレモニー",
+      "eventDate": "2026-08-06 14:00",
+      "sortDate": "2026-08-06T14:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/43274",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/43204",
