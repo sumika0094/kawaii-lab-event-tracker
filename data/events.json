@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-07T12:41:42.564Z",
-  "count": 54,
+  "updatedAt": "2026-08-08T00:56:32.201Z",
+  "count": 55,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -254,6 +254,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/35778",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/86837",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV 放課後きゃんちゅー部 #13",
+      "eventDate": "2026-08-08 19:00",
+      "sortDate": "2026-08-08T19:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/86837",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/35916",
