@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-10T01:01:50.940Z",
-  "count": 55,
+  "updatedAt": "2026-08-10T12:45:58.442Z",
+  "count": 56,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -320,6 +320,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/35909",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/86943",
+      "groupName": "CANDY TUNE",
+      "eventName": "MAGAZINE 『sweet』9月号(小川奈々子・村川緋杏・桐原美月)",
+      "eventDate": "2026-08-10",
+      "sortDate": "2026-08-10T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/86943",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/86435",
