@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-11T01:01:07.840Z",
-  "count": 56,
+  "updatedAt": "2026-08-11T12:43:06.392Z",
+  "count": 59,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -333,6 +333,28 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/87023",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV フジテレビ「ドリフ大挑戦スペシャル」",
+      "eventDate": "2026-08-11 19:00",
+      "sortDate": "2026-08-11T19:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/87023",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/87024",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV MBS「ライバルたちがめっちゃ褒めてくる！~アイドル同士の本音レビューＳＰ~ 」(桐原美月)",
+      "eventDate": "2026-08-12",
+      "sortDate": "2026-08-12T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/87024",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/86435",
       "groupName": "FRUITS ZIPPER",
       "eventName": "TV テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
@@ -353,6 +375,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/39427",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/87038",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV テレビ東京「真夏の怪奇ファイル2026 見えてしまった…招かれざるモノたち」",
+      "eventDate": "2026-08-13 18:25",
+      "sortDate": "2026-08-13T18:25:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/87038",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/86324",
