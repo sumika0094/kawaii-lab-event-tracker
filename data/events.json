@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-12T01:07:59.995Z",
-  "count": 59,
+  "updatedAt": "2026-08-12T12:45:43.662Z",
+  "count": 61,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -476,6 +476,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/87064",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV テレビ朝日『START UP！ドリームエンタ』",
+      "eventDate": "2026-08-18",
+      "sortDate": "2026-08-18T00:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/87064",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43023",
       "groupName": "KAWAII LAB.",
       "eventName": "EVENT 𝐀𝐒𝐎𝐁𝐈𝐄𝐗𝐏𝐎 𝟐𝟎𝟐𝟔",
@@ -573,6 +584,17 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/39285",
       "publishedDate": null,
       "sourceId": "sweet-steady"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/87065",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV テレビ朝日『START UP！ドリームエンタ』",
+      "eventDate": "2026-08-25",
+      "sortDate": "2026-08-25T00:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/87065",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/33046",
