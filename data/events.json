@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-13T01:09:55.533Z",
-  "count": 61,
+  "updatedAt": "2026-08-13T12:47:53.986Z",
+  "count": 64,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -399,6 +399,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/87291",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV 日本テレビ『ZIP!』",
+      "eventDate": "2026-08-14",
+      "sortDate": "2026-08-14T00:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/87291",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/41646",
       "groupName": "FRUITS ZIPPER",
       "eventName": "EVENT めざましWANGANフェス~人気バラエティと夏の最強コラボ~",
@@ -417,6 +428,17 @@
       "sortDate": "2026-08-15T00:00:00",
       "venue": "万博記念公園 公演日 2026.08.15[SAT] 開催場所・会場 万博記念公",
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/39588",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87282",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV NHK「 夏の音楽祭 #うたであえたら 2026」",
+      "eventDate": "2026-08-15 18:05",
+      "sortDate": "2026-08-15T18:05:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/87282",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
@@ -463,6 +485,17 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/39542",
       "publishedDate": null,
       "sourceId": "sweet-steady"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87283",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV TBS「CDTVライブ!ライブ!」 3時間SP",
+      "eventDate": "2026-08-17 19:00",
+      "sortDate": "2026-08-17T19:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/87283",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40744",
