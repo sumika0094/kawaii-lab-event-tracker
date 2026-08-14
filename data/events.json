@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-14T01:08:33.835Z",
-  "count": 64,
+  "updatedAt": "2026-08-14T12:43:28.118Z",
+  "count": 66,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -421,6 +421,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43655",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT 「三井不動産カップ2026 (東京大会) 」 女子日本代表チーム vs 女子韓国代表チーム(福山梨乃)",
+      "eventDate": "2026-08-14 17:00",
+      "sortDate": "2026-08-14T17:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/43655",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/39588",
       "groupName": "FRUITS ZIPPER",
       "eventName": "EVENT SUMMER SONIC 2026",
@@ -485,6 +496,17 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/39542",
       "publishedDate": null,
       "sourceId": "sweet-steady"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/43665",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
+      "eventDate": "2026-08-16 12:30",
+      "sortDate": "2026-08-16T12:30:00",
+      "venue": "ステラタウン大宮 1F屋外メローペ広場 公演日 2026.08.16[SUN]",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/43665",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87283",
