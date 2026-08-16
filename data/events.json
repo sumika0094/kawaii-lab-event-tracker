@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-15T12:19:26.839Z",
-  "count": 66,
+  "updatedAt": "2026-08-16T00:43:52.559Z",
+  "count": 68,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -355,6 +355,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87464",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV 日テレ系『ヒューマングルメンタリー オモウマい店』",
+      "eventDate": "2026-08-12 19:00",
+      "sortDate": "2026-08-12T19:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/87464",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/86435",
       "groupName": "FRUITS ZIPPER",
       "eventName": "TV テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
@@ -479,8 +490,8 @@
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40466",
       "groupName": "FRUITS ZIPPER",
       "eventName": "EVENT FRUITS ZIPPER 5thシングルCD発売記念イベント 大特典会",
-      "eventDate": "2026-08-16",
-      "sortDate": "2026-08-16T00:00:00",
+      "eventDate": "2026-08-16 09:00",
+      "sortDate": "2026-08-16T09:00:00",
       "venue": "パシフィコ横浜 公演日 2026.08.16[SUN] 開催場所・会場 神奈川県",
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40466",
       "publishedDate": null,
@@ -604,6 +615,17 @@
       "sortDate": "2026-08-20T01:25:00",
       "venue": null,
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/86436",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87463",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV TBS 「スポッパ 」",
+      "eventDate": "2026-08-21 19:00",
+      "sortDate": "2026-08-21T19:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/87463",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
