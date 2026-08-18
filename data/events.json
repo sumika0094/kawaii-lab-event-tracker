@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-18T00:41:26.458Z",
-  "count": 68,
+  "updatedAt": "2026-08-18T12:25:41.531Z",
+  "count": 69,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -628,6 +628,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/87463",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43858",
+      "groupName": "CANDY TUNE",
+      "eventName": "LIVE 「MONSTER baSH 2026」",
+      "eventDate": "2026-08-22 09:00",
+      "sortDate": "2026-08-22T09:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/43858",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40107",
