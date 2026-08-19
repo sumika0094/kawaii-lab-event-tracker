@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-19T00:41:54.219Z",
-  "count": 69,
+  "updatedAt": "2026-08-19T12:26:12.676Z",
+  "count": 75,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -355,6 +355,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/87735",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV フジテレビ系列『奇跡体験！アンビリバボー』",
+      "eventDate": "2026-08-12 08:00",
+      "sortDate": "2026-08-12T08:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/87735",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87464",
       "groupName": "FRUITS ZIPPER",
       "eventName": "TV 日テレ系『ヒューマングルメンタリー オモウマい店』",
@@ -452,6 +463,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/39588",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/87737",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV テレビ朝日系列『池上彰のニュースそうだったのか!!』",
+      "eventDate": "2026-08-15 06:56",
+      "sortDate": "2026-08-15T06:56:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/87737",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87282",
@@ -619,6 +641,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/87738",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV TBS系『スポッパ』",
+      "eventDate": "2026-08-21 07:00",
+      "sortDate": "2026-08-21T07:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/87738",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87463",
       "groupName": "FRUITS ZIPPER",
       "eventName": "TV TBS 「スポッパ 」",
@@ -685,6 +718,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/87740",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV テレビ朝日系列『GIFT ~ Girls Idol Festival TV ~』",
+      "eventDate": "2026-08-25 00:15",
+      "sortDate": "2026-08-25T00:15:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/87740",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/33046",
       "groupName": "CUTIE STREET",
       "eventName": "LIVE CUTIE STREET 2nd ANNIVERSARY LIVE 2026 Day1",
@@ -740,6 +784,17 @@
       "sourceId": "kawaii-lab"
     },
     {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/43895",
+      "groupName": "SWEET STEADY",
+      "eventName": "EVENT 『バンコク日本博2026』",
+      "eventDate": "2026-08-28 10:00",
+      "sortDate": "2026-08-28T10:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/43895",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40721",
       "groupName": "CANDY TUNE",
       "eventName": "LIVE 「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」埼玉公演",
@@ -760,6 +815,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/40722",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/87742",
+      "groupName": "SWEET STEADY",
+      "eventName": "TV 中京テレビ『24時間テレビ49』",
+      "eventDate": "2026-08-30",
+      "sortDate": "2026-08-30T00:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/87742",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
     }
   ]
 }
