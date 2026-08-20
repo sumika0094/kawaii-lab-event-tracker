@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-19T12:26:12.676Z",
-  "count": 75,
+  "updatedAt": "2026-08-20T00:41:49.888Z",
+  "count": 78,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -685,6 +685,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43938",
+      "groupName": "KAWAII LAB.",
+      "eventName": "EVENT KAWAII LAB. MATES 8月オンライン特典会",
+      "eventDate": "2026-08-22 21:00",
+      "sortDate": "2026-08-22T21:00:00",
+      "venue": "KAWAII LAB. YouTube BACK 08 22 [SAT] EVE",
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/43938",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/39590",
       "groupName": "FRUITS ZIPPER",
       "eventName": "EVENT MONSTER baSH 2026",
@@ -795,6 +806,17 @@
       "sourceId": "sweet-steady"
     },
     {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43939",
+      "groupName": "KAWAII LAB.",
+      "eventName": "EVENT HANiKAMi vol.5",
+      "eventDate": "2026-08-28 16:00",
+      "sortDate": "2026-08-28T16:00:00",
+      "venue": "Zepp Shinjuku (TOKYO) 公演日 2026.08.28[FRI",
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/43939",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40721",
       "groupName": "CANDY TUNE",
       "eventName": "LIVE 「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」埼玉公演",
@@ -804,6 +826,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/40721",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43940",
+      "groupName": "KAWAII LAB.",
+      "eventName": "EVENT",
+      "eventDate": "2026-08-29 19:10",
+      "sortDate": "2026-08-29T19:10:00",
+      "venue": "JAM EXPO 2026 supported ｂｙ ＵＰ−Ｔ@ 横浜アリーナ",
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/43940",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40722",
