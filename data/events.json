@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-20T00:41:49.888Z",
-  "count": 78,
+  "updatedAt": "2026-08-20T12:28:34.267Z",
+  "count": 84,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -333,6 +333,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/87851",
+      "groupName": "CUTIE STREET",
+      "eventName": "MAGAZINE 雑誌『sweet 』9月号",
+      "eventDate": "2026-08-10",
+      "sortDate": "2026-08-10T00:00:00",
+      "venue": "sweet_twjp#クオレ #sweet#CUTIESTREET #きゅーすと",
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/87851",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/87023",
       "groupName": "CANDY TUNE",
       "eventName": "TV フジテレビ「ドリフ大挑戦スペシャル」",
@@ -630,6 +641,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/87850",
+      "groupName": "CUTIE STREET",
+      "eventName": "MAGAZINE 雑誌『non-no』10月号",
+      "eventDate": "2026-08-20",
+      "sortDate": "2026-08-20T00:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/87850",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/86436",
       "groupName": "FRUITS ZIPPER",
       "eventName": "TV テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
@@ -639,6 +661,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/86436",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/87839",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV TBS「ニンゲン観察バラエティ モニタリング」(小川奈々子)",
+      "eventDate": "2026-08-20 20:00",
+      "sortDate": "2026-08-20T20:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/87839",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/87738",
@@ -672,6 +705,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/43858",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/43977",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
+      "eventDate": "2026-08-22 14:00",
+      "sortDate": "2026-08-22T14:00:00",
+      "venue": "エミテラス所沢2F TOKOROZAWA e-CUBE 公演日 2026.08.",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/43977",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40107",
@@ -716,6 +760,17 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/39285",
       "publishedDate": null,
       "sourceId": "sweet-steady"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/43978",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
+      "eventDate": "2026-08-23 10:00",
+      "sortDate": "2026-08-23T10:00:00",
+      "venue": "ららぽーと豊洲 シーサイドデッキ メインステージ 公演日 2026.08.23[",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/43978",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/87065",
@@ -793,6 +848,17 @@
       "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/43118",
       "publishedDate": null,
       "sourceId": "kawaii-lab"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/87853",
+      "groupName": "CUTIE STREET",
+      "eventName": "MAGAZINE 雑誌『MAPS KOREA』『MAPS JAPAN』",
+      "eventDate": "2026-08-28",
+      "sortDate": "2026-08-28T00:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/87853",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/43895",
