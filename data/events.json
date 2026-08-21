@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-21T00:44:46.285Z",
-  "count": 84,
+  "updatedAt": "2026-08-21T12:28:36.300Z",
+  "count": 95,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -234,6 +234,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87969",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO RKBラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-08-07 23:30",
+      "sortDate": "2026-08-07T23:30:00",
+      "venue": "rkbr_info にて❤️FRUITS ZIPPER #月足天音RKBラジオ「",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/87969",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/43204",
       "groupName": "MORE STAR",
       "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
@@ -465,6 +476,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87967",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO RKBラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-08-14 23:30",
+      "sortDate": "2026-08-14T23:30:00",
+      "venue": "rkbr_info にて❤️FRUITS ZIPPER #月足天音RKBラジオ「",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/87967",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/39588",
       "groupName": "FRUITS ZIPPER",
       "eventName": "EVENT SUMMER SONIC 2026",
@@ -674,6 +696,28 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/87936",
+      "groupName": "CANDY TUNE",
+      "eventName": "MAGAZINE 「CanCam」10月号(立花琴未)",
+      "eventDate": "2026-08-21",
+      "sortDate": "2026-08-21T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/87936",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/87939",
+      "groupName": "CUTIE STREET",
+      "eventName": "MAGAZINE 雑誌『VOCE』10月号",
+      "eventDate": "2026-08-21",
+      "sortDate": "2026-08-21T00:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/87939",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/news/detail/87738",
       "groupName": "SWEET STEADY",
       "eventName": "TV TBS系『スポッパ』",
@@ -692,6 +736,17 @@
       "sortDate": "2026-08-21T19:00:00",
       "venue": null,
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/87463",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87966",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO RKBラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-08-21 23:30",
+      "sortDate": "2026-08-21T23:30:00",
+      "venue": "rkbr_info にて❤️FRUITS ZIPPER #月足天音RKBラジオ「",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/87966",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
@@ -773,6 +828,28 @@
       "sourceId": "more-star"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87963",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV MBS/TBS系『日曜日の初耳学』(櫻井)",
+      "eventDate": "2026-08-23 22:00",
+      "sortDate": "2026-08-23T22:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/87963",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/43999",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
+      "eventDate": "2026-08-24 15:00",
+      "sortDate": "2026-08-24T15:00:00",
+      "venue": "ららぽーと豊洲 シーサイドデッキ メインステージ 公演日 2026.08.24[",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/43999",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/87065",
       "groupName": "CUTIE STREET",
       "eventName": "TV テレビ朝日『START UP！ドリームエンタ』",
@@ -817,6 +894,17 @@
       "sourceId": "more-star"
     },
     {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/44001",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
+      "eventDate": "2026-08-26 10:00",
+      "sortDate": "2026-08-26T10:00:00",
+      "venue": "ららぽーと立川立飛 2Fイベント広場 公演日 2026.08.26[WED] 開",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/44001",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/33047",
       "groupName": "CUTIE STREET",
       "eventName": "LIVE CUTIE STREET 2nd ANNIVERSARY LIVE 2026 Day2",
@@ -835,6 +923,17 @@
       "sortDate": "2026-08-26T17:00:00",
       "venue": null,
       "detailUrl": "https://morestar.fanpla.jp/news/detail/79077",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/44002",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
+      "eventDate": "2026-08-27 13:30",
+      "sortDate": "2026-08-27T13:30:00",
+      "venue": "animate hall BLACK(アニメイト池袋本店 北館9F) 公演日 2",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/44002",
       "publishedDate": null,
       "sourceId": "more-star"
     },
@@ -872,6 +971,17 @@
       "sourceId": "sweet-steady"
     },
     {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/44007",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
+      "eventDate": "2026-08-28 14:00",
+      "sortDate": "2026-08-28T14:00:00",
+      "venue": "テラスモール松戸 2Fこもれびステージ 公演日 2026.08.28[FRI]",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/44007",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43939",
       "groupName": "KAWAII LAB.",
       "eventName": "EVENT HANiKAMi vol.5",
@@ -881,6 +991,17 @@
       "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/43939",
       "publishedDate": null,
       "sourceId": "kawaii-lab"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87968",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO RKBラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-08-28 23:30",
+      "sortDate": "2026-08-28T23:30:00",
+      "venue": "rkbr_info にて❤️FRUITS ZIPPER #月足天音RKBラジオ「",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/87968",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40721",
