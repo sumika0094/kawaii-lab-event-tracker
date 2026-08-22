@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-22T00:42:05.500Z",
-  "count": 95,
+  "updatedAt": "2026-08-22T12:20:49.377Z",
+  "count": 97,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -1026,6 +1026,17 @@
       "sourceId": "kawaii-lab"
     },
     {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/88036",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV NHK音楽番組『Venue 101』",
+      "eventDate": "2026-08-29 23:00",
+      "sortDate": "2026-08-29T23:00:00",
+      "venue": "nhk_venue101 #CUTIESTREET #きゅーすと SHARE B",
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/88036",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40722",
       "groupName": "CANDY TUNE",
       "eventName": "LIVE 「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」埼玉公演",
@@ -1046,6 +1057,17 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/news/detail/87742",
       "publishedDate": null,
       "sourceId": "sweet-steady"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/44035",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！ / WITH KAWAII論』発売記念リリースイベント",
+      "eventDate": "2026-08-30 10:00",
+      "sortDate": "2026-08-30T10:00:00",
+      "venue": "ところざわサクラタウン 千人テラス 公演日 2026.08.30[SUN] 開催",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/44035",
+      "publishedDate": null,
+      "sourceId": "more-star"
     }
   ]
 }
