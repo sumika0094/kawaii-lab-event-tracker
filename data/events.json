@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T12:21:14.366Z",
-  "count": 97,
+  "updatedAt": "2026-08-24T00:43:54.471Z",
+  "count": 98,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -826,6 +826,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/43978",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/88077",
+      "groupName": "CUTIE STREET",
+      "eventName": "RADIO TOKYO FM「CUTIE STREET♡ KAWAII MAKERラジオ」",
+      "eventDate": "2026-08-23 21:30",
+      "sortDate": "2026-08-23T21:30:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/88077",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87963",
