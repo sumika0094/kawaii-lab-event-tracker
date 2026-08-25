@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-25T00:43:35.367Z",
-  "count": 98,
+  "updatedAt": "2026-08-25T12:29:51.348Z",
+  "count": 105,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -179,6 +179,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88261",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+      "eventDate": "2026-08-04",
+      "sortDate": "2026-08-04T00:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88261",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/39416",
       "groupName": "CUTIE STREET",
       "eventName": "EVENT #めざましWANGANフェス ~人気バラエティと夏の最強コラボ~",
@@ -353,6 +364,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/87851",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88255",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+      "eventDate": "2026-08-11",
+      "sortDate": "2026-08-11T00:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88255",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/87023",
@@ -586,6 +608,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88247",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+      "eventDate": "2026-08-18",
+      "sortDate": "2026-08-18T00:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88247",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40744",
       "groupName": "CANDY TUNE",
       "eventName": "LIVE 『ASOBISYSTEM 19th Anniversary ASOBIEXPO 2026』",
@@ -696,6 +729,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88276",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "MAGAZINE ViVi10月号(鎮西)",
+      "eventDate": "2026-08-21",
+      "sortDate": "2026-08-21T00:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88276",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/87936",
       "groupName": "CANDY TUNE",
       "eventName": "MAGAZINE 「CanCam」10月号(立花琴未)",
@@ -731,7 +775,7 @@
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87463",
       "groupName": "FRUITS ZIPPER",
-      "eventName": "TV TBS 「スポッパ 」",
+      "eventName": "TV TBS 「スポッパ」(真中・松本)",
       "eventDate": "2026-08-21 19:00",
       "sortDate": "2026-08-21T19:00:00",
       "venue": null,
@@ -859,6 +903,39 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/43999",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88246",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+      "eventDate": "2026-08-25",
+      "sortDate": "2026-08-25T00:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88246",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88264",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
+      "eventDate": "2026-08-25",
+      "sortDate": "2026-08-25T00:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88264",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/88289",
+      "groupName": "CANDY TUNE",
+      "eventName": "MAGAZINE 『MARQUEE Vol.163』",
+      "eventDate": "2026-08-25",
+      "sortDate": "2026-08-25T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/88289",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/87065",
