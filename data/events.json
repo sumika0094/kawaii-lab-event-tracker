@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-26T00:44:30.294Z",
-  "count": 105,
+  "updatedAt": "2026-08-26T12:32:29.137Z",
+  "count": 107,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -1015,6 +1015,17 @@
       "sourceId": "more-star"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88347",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ朝日ドラマ「大空港」＃6(鎮西)",
+      "eventDate": "2026-08-27",
+      "sortDate": "2026-08-27T00:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88347",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/44002",
       "groupName": "MORE STAR",
       "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！/WITH KAWAII論』発売記念リリースイベント",
@@ -1079,6 +1090,17 @@
       "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/43939",
       "publishedDate": null,
       "sourceId": "kawaii-lab"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88406",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO FM山形「RAMP.」(櫻井)",
+      "eventDate": "2026-08-28 16:00",
+      "sortDate": "2026-08-28T16:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88406",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87968",
