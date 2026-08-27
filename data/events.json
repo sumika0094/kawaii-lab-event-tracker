@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-27T05:51:40.470Z",
-  "count": 107,
+  "updatedAt": "2026-08-27T21:28:38.996Z",
+  "count": 108,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43025",
@@ -1055,6 +1055,17 @@
       "sortDate": "2026-08-28T00:00:00",
       "venue": null,
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/87853",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/88543",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV テレビアニメ『ポケットモンスター』",
+      "eventDate": "2026-08-28 06:55",
+      "sortDate": "2026-08-28T06:55:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/88543",
       "publishedDate": null,
       "sourceId": "cutie-street"
     },
