@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-01T02:42:25.175Z",
-  "count": 60,
+  "updatedAt": "2026-09-01T15:47:29.451Z",
+  "count": 65,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -36,6 +36,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/44452",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT 4th single リリースイベント",
+      "eventDate": "2026-09-01 15:00",
+      "sortDate": "2026-09-01T15:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/44452",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/88806",
       "groupName": "CANDY TUNE",
       "eventName": "WEB 「りそなグループ B.LEAGUE 2026-27 SEASON TIPOFF CEREMONY」(福山梨乃)",
@@ -45,6 +56,17 @@
       "detailUrl": "https://candytune.asobisystem.com/news/detail/88806",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/44454",
+      "groupName": "SWEET STEADY",
+      "eventName": "EVENT 『福岡ソフトバンクホークス戦』",
+      "eventDate": "2026-09-02 18:00",
+      "sortDate": "2026-09-02T18:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/44454",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88412",
@@ -116,8 +138,8 @@
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/43897",
       "groupName": "SWEET STEADY",
       "eventName": "EVENT 『3rdシングル SWEET STEP 発売記念リリースイベント』",
-      "eventDate": "2026-09-05",
-      "sortDate": "2026-09-05T00:00:00",
+      "eventDate": "2026-09-05 10:10",
+      "sortDate": "2026-09-05T10:10:00",
       "venue": "エミテラス所沢2F TOKOROZAWA e-CUBE 公演日 2026.09.",
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/43897",
       "publishedDate": null,
@@ -166,6 +188,17 @@
       "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/43935",
       "publishedDate": null,
       "sourceId": "kawaii-lab"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88885",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ東京「プレミアMelodiX!」(早瀬)",
+      "eventDate": "2026-09-07",
+      "sortDate": "2026-09-07T00:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88885",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/43899",
@@ -329,6 +362,17 @@
       "sortDate": "2026-09-13T09:30:00",
       "venue": null,
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/40599",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/44456",
+      "groupName": "SWEET STEADY",
+      "eventName": "EVENT 『3rdシングル SWEET STEP 発売記念リリースイベント』",
+      "eventDate": "2026-09-14",
+      "sortDate": "2026-09-14T00:00:00",
+      "venue": "北海道 サッポロファクトリー アトリウム 公演日 2026.09.14[MON]",
+      "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/44456",
       "publishedDate": null,
       "sourceId": "sweet-steady"
     },
@@ -507,6 +551,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/39819",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/44458",
+      "groupName": "SWEET STEADY",
+      "eventName": "LIVE 『SWEET STEADY 単独公演 お花見会 第一回/第二回』",
+      "eventDate": "2026-09-21 13:00",
+      "sortDate": "2026-09-21T13:00:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/44458",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40029",
