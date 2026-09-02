@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-02T02:03:27.916Z",
-  "count": 65,
+  "updatedAt": "2026-09-02T15:39:29.503Z",
+  "count": 66,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -461,6 +461,17 @@
       "sortDate": "2026-09-19T00:00:00",
       "venue": null,
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40145",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/44518",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "EVENT マイナビ TGC 2026 A/W",
+      "eventDate": "2026-09-19",
+      "sortDate": "2026-09-19T00:00:00",
+      "venue": "横浜アリーナ 公演日 2026.09.19[SAT] 開催場所・会場 神奈川県",
+      "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/44518",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
