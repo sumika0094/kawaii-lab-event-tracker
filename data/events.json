@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-03T02:08:12.837Z",
-  "count": 66,
+  "updatedAt": "2026-09-03T15:30:39.933Z",
+  "count": 70,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -67,6 +67,17 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/44454",
       "publishedDate": null,
       "sourceId": "sweet-steady"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/44547",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT 『SBI証券 presents TGC 北九州 2026』(村川緋杏・立花琴未)",
+      "eventDate": "2026-09-03",
+      "sortDate": "2026-09-03T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/44547",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88412",
@@ -520,6 +531,17 @@
       "sourceId": "more-star"
     },
     {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/44568",
+      "groupName": "KAWAII LAB.",
+      "eventName": "EVENT FMヨコハマ×ダイナシティのコラボイベント 「DYNA-FESTA~みんなでつくる、1年に1度のワクワク記念日~」",
+      "eventDate": "2026-09-20",
+      "sortDate": "2026-09-20T00:00:00",
+      "venue": "ダイナシティ正面店頭ステージ(屋外) 公演日 2026.09.20[SUN] 開",
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/44568",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/42260",
       "groupName": "CANDY TUNE",
       "eventName": "EVENT 「第4回 IDOL RUNWAY COLLECTION 2026 AUTUMN/WINTER Supported by TGC」",
@@ -608,6 +630,17 @@
       "sourceId": "sweet-steady"
     },
     {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/44567",
+      "groupName": "KAWAII LAB.",
+      "eventName": "EVENT はばたけ！アイドルフェス 秋の陣",
+      "eventDate": "2026-09-22 23:59",
+      "sortDate": "2026-09-22T23:59:00",
+      "venue": "「はばフェスステージ」テレビ大阪1Fホール / 「YATAIフェス!ステージ」大",
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/44567",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/40309",
       "groupName": "CUTIE STREET",
       "eventName": "LIVE 【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】",
@@ -661,6 +694,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88251",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/44541",
+      "groupName": "KAWAII LAB.",
+      "eventName": "EVENT KAWAII LAB. MATES すきトーク",
+      "eventDate": "2026-09-26",
+      "sortDate": "2026-09-26T00:00:00",
+      "venue": null,
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/44541",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/88664",
