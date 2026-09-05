@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05T02:05:36.428Z",
-  "count": 77,
+  "updatedAt": "2026-09-05T14:16:24.157Z",
+  "count": 78,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -153,6 +153,17 @@
       "sortDate": "2026-09-04T23:30:00",
       "venue": "rkbr_info にて❤️FRUITS ZIPPER #月足天音RKBラジオ「",
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88244",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/89240",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ朝日『若槻千夏のうるさい心理テスト』(早瀬)",
+      "eventDate": "2026-09-05",
+      "sortDate": "2026-09-05T00:00:00",
+      "venue": "noel_fz1229@urusai_shinri#若槻千夏のうるさい心理テスト",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/89240",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
