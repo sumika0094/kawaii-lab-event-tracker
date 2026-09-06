@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T14:16:24.157Z",
+  "updatedAt": "2026-09-06T02:00:46.917Z",
   "count": 78,
   "events": [
     {
@@ -201,17 +201,6 @@
       "sourceId": "kawaii-lab"
     },
     {
-      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/42630",
-      "groupName": "FRUITS ZIPPER",
-      "eventName": "EVENT FRUITS ZIPPER 5thシングルCD発売記念イベント 大特典会",
-      "eventDate": "2026-09-06",
-      "sortDate": "2026-09-06T00:00:00",
-      "venue": "ベルサール汐留 公演日 2026.09.06[SUN] 開催場所・会場 東京都",
-      "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/42630",
-      "publishedDate": null,
-      "sourceId": "fruits-zipper"
-    },
-    {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/43898",
       "groupName": "SWEET STEADY",
       "eventName": "EVENT 『3rdシングル SWEET STEP 発売記念リリースイベント』",
@@ -221,6 +210,17 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/43898",
       "publishedDate": null,
       "sourceId": "sweet-steady"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/42630",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "EVENT FRUITS ZIPPER 5thシングルCD発売記念イベント 大特典会",
+      "eventDate": "2026-09-06 10:00",
+      "sortDate": "2026-09-06T10:00:00",
+      "venue": "ベルサール汐留 公演日 2026.09.06[SUN] 開催場所・会場 東京都",
+      "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/42630",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43935",
