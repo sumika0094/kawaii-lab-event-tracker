@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-12T02:13:26.950Z",
-  "count": 77,
+  "updatedAt": "2026-09-12T14:40:27.460Z",
+  "count": 79,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -388,6 +388,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/89805",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV 「日テレ「サクサクヒムヒム」(小川奈々子)",
+      "eventDate": "2026-09-12 23:30",
+      "sortDate": "2026-09-12T23:30:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/89805",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56530",
       "groupName": "KAWAII LAB.",
       "eventName": "OTHER 🩵CUTIE STREET 梅田みゆ BIRTHDAY🩵",
@@ -485,6 +496,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40027",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/44961",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT 4th single リリースイベント",
+      "eventDate": "2026-09-17",
+      "sortDate": "2026-09-17T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/44961",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/87940",
