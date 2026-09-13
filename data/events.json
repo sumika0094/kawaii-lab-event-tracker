@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-12T14:40:27.460Z",
-  "count": 79,
+  "updatedAt": "2026-09-13T02:10:17.022Z",
+  "count": 81,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -67,17 +67,6 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/44454",
       "publishedDate": null,
       "sourceId": "sweet-steady"
-    },
-    {
-      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/44547",
-      "groupName": "CANDY TUNE",
-      "eventName": "EVENT 『SBI証券 presents TGC 北九州 2026』(村川緋杏・立花琴未)",
-      "eventDate": "2026-09-03",
-      "sortDate": "2026-09-03T00:00:00",
-      "venue": null,
-      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/44547",
-      "publishedDate": null,
-      "sourceId": "candy-tune"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88412",
@@ -441,6 +430,39 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/40599",
       "publishedDate": null,
       "sourceId": "sweet-steady"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/89820",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO 「CANDY TUNE 桐原美月の青色RADIO」",
+      "eventDate": "2026-09-13 11:00",
+      "sortDate": "2026-09-13T11:00:00",
+      "venue": "lucky-ibaraki.com📱 http://lucky-ibaraki",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/89820",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/44969",
+      "groupName": "CANDY TUNE",
+      "eventName": "LIVE 「TOMAKOMAI MIRAI FEST 2026」",
+      "eventDate": "2026-09-13 17:55",
+      "sortDate": "2026-09-13T17:55:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/44969",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/89821",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
+      "eventDate": "2026-09-13 21:00",
+      "sortDate": "2026-09-13T21:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/89821",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/44456",
