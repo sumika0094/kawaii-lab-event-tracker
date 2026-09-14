@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-14T02:28:35.433Z",
-  "count": 89,
+  "updatedAt": "2026-09-14T17:17:56.184Z",
+  "count": 94,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -718,6 +718,17 @@
       "sourceId": "kawaii-lab"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/89917",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ東京「たべるししゃべるし」(鎮西)",
+      "eventDate": "2026-09-20",
+      "sortDate": "2026-09-20T00:00:00",
+      "venue": "taberushi_shaberushi公式instagramhttps://w",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/89917",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/42260",
       "groupName": "CANDY TUNE",
       "eventName": "EVENT 「第4回 IDOL RUNWAY COLLECTION 2026 AUTUMN/WINTER Supported by TGC」",
@@ -817,6 +828,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/89918",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ東京「たべるししゃべるし」(鎮西)",
+      "eventDate": "2026-09-22",
+      "sortDate": "2026-09-22T00:00:00",
+      "venue": "taberushi_shaberushi公式instagramhttps://w",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/89918",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/44617",
       "groupName": "CANDY TUNE",
       "eventName": "EVENT 4th single 大特典会",
@@ -870,6 +892,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40030",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/89932",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV 日本テレビ『1億2000万人のありがとう 歌の感謝祭』",
+      "eventDate": "2026-09-23 19:00",
+      "sortDate": "2026-09-23T19:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/89932",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40032",
@@ -927,6 +960,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/89919",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ東京「たべるししゃべるし」(鎮西)",
+      "eventDate": "2026-09-27",
+      "sortDate": "2026-09-27T00:00:00",
+      "venue": "taberushi_shaberushi公式instagramhttps://w",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/89919",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88263",
       "groupName": "FRUITS ZIPPER",
       "eventName": "RADIO ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
@@ -934,6 +978,17 @@
       "sortDate": "2026-09-29T00:00:00",
       "venue": null,
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88263",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/89920",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ東京「たべるししゃべるし」(鎮西)",
+      "eventDate": "2026-09-29",
+      "sortDate": "2026-09-29T00:00:00",
+      "venue": "taberushi_shaberushi公式instagramhttps://w",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/89920",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
