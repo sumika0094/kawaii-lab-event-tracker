@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-13T15:20:15.158Z",
-  "count": 81,
+  "updatedAt": "2026-09-14T02:28:35.433Z",
+  "count": 89,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -89,6 +89,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40026",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/89854",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV TBS「ニンゲン観察バラエティ モニタリング」(小川奈々子)",
+      "eventDate": "2026-09-03 20:00",
+      "sortDate": "2026-09-03T20:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/89854",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/88668",
@@ -212,6 +223,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/89853",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO 『CANDY TUNE 桐原美月の青色RADIO』(桐原美月)",
+      "eventDate": "2026-09-06 11:00",
+      "sortDate": "2026-09-06T11:00:00",
+      "venue": "lucky-ibaraki.com📱 http://lucky-ibaraki",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/89853",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43935",
       "groupName": "KAWAII LAB.",
       "eventName": "EVENT 2026RABまつり",
@@ -223,6 +245,28 @@
       "sourceId": "kawaii-lab"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/89851",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO TOKYO FM「CANDY TUNE TOKYO CANDY NIGHT」『きゃんないスペシャル感謝祭』",
+      "eventDate": "2026-09-06 19:00",
+      "sortDate": "2026-09-06T19:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/89851",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/89852",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO TOKYO FM「CANDY TUNE TOKYO CANDY NIGHT」",
+      "eventDate": "2026-09-06 19:00",
+      "sortDate": "2026-09-06T19:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/89852",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88885",
       "groupName": "FRUITS ZIPPER",
       "eventName": "TV テレビ東京「プレミアMelodiX!」(早瀬)",
@@ -232,6 +276,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88885",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/89849",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV テレビ朝日「START UP！ドリームエンタ」(立花琴未)",
+      "eventDate": "2026-09-07",
+      "sortDate": "2026-09-07T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/89849",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/43899",
@@ -461,6 +516,17 @@
       "sortDate": "2026-09-13T21:00:00",
       "venue": null,
       "detailUrl": "https://candytune.asobisystem.com/news/detail/89821",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/89850",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV テレビ朝日「START UP！ドリームエンタ」(立花琴未)",
+      "eventDate": "2026-09-14",
+      "sortDate": "2026-09-14T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/89850",
       "publishedDate": null,
       "sourceId": "candy-tune"
     },
@@ -707,6 +773,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/89864",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV CBCテレビ「お歌詞もぐもぐ」",
+      "eventDate": "2026-09-21",
+      "sortDate": "2026-09-21T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/89864",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/44458",
       "groupName": "SWEET STEADY",
       "eventName": "LIVE 『SWEET STEADY 単独公演 お花見会 第一回/第二回』",
@@ -826,6 +903,17 @@
       "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/44541",
       "publishedDate": null,
       "sourceId": "kawaii-lab"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/44997",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT Rakuten GirlsAward 2026 A/W",
+      "eventDate": "2026-09-26",
+      "sortDate": "2026-09-26T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/44997",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/88664",
