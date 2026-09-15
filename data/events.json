@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-15T02:33:10.256Z",
-  "count": 94,
+  "updatedAt": "2026-09-15T15:57:42.835Z",
+  "count": 95,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -562,6 +562,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/87068",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/90063",
+      "groupName": "CANDY TUNE",
+      "eventName": "WEB 放課後きゃんちゅー部 (YouTube生配信)",
+      "eventDate": "2026-09-15 19:00",
+      "sortDate": "2026-09-15T19:00:00",
+      "venue": "candy_tune SHARE BACK 09 15 [TUE] WEB 放課",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/90063",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/44616",
