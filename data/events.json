@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-16T02:27:26.601Z",
-  "count": 95,
+  "updatedAt": "2026-09-16T15:48:45.571Z",
+  "count": 98,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -872,6 +872,17 @@
       "sourceId": "sweet-steady"
     },
     {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45085",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！ / WITH KAWAII論』発売記念リリースイベント",
+      "eventDate": "2026-09-22 10:00",
+      "sortDate": "2026-09-22T10:00:00",
+      "venue": "有明ガーデン みんなのテラス 公演日 2026.09.22[TUE] 開催場所・",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45085",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/44567",
       "groupName": "KAWAII LAB.",
       "eventName": "EVENT はばたけ！アイドルフェス 秋の陣",
@@ -903,6 +914,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40030",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/90252",
+      "groupName": "CANDY TUNE",
+      "eventName": "WEB オンラインリリイベ",
+      "eventDate": "2026-09-23 18:00",
+      "sortDate": "2026-09-23T18:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/90252",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/89932",
@@ -980,6 +1002,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/89919",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45086",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！ / WITH KAWAII論』発売記念リリースイベント",
+      "eventDate": "2026-09-27 14:00",
+      "sortDate": "2026-09-27T14:00:00",
+      "venue": "東京ドリームパーク ドリームテラス 公演日 2026.09.27[SUN] 開催",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45086",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88263",
