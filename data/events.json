@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-19T15:04:22.755Z",
-  "count": 97,
+  "updatedAt": "2026-09-20T02:28:26.720Z",
+  "count": 100,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -762,6 +762,28 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/90646",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO 「CANDY TUNE 桐原美月の青色RADIO」",
+      "eventDate": "2026-09-20 11:00",
+      "sortDate": "2026-09-20T11:00:00",
+      "venue": "lucky-ibaraki.com📱 http://lucky-ibaraki",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/90646",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/45267",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT 「AGESTOCK2026 in 横浜アリーナ」",
+      "eventDate": "2026-09-20 17:30",
+      "sortDate": "2026-09-20T17:30:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/45267",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/43902",
       "groupName": "SWEET STEADY",
       "eventName": "EVENT 『AGESTOCK2026 in 横浜アリーナ』",
@@ -771,6 +793,17 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/43902",
       "publishedDate": null,
       "sourceId": "sweet-steady"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/90647",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
+      "eventDate": "2026-09-20 21:00",
+      "sortDate": "2026-09-20T21:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/90647",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/39819",
