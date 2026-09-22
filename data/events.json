@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-22T02:29:53.310Z",
-  "count": 100,
+  "updatedAt": "2026-09-22T15:59:17.856Z",
+  "count": 101,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -958,6 +958,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/89932",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45312",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE MORE STAR 単独ライブ 5th STAR",
+      "eventDate": "2026-09-24 17:00",
+      "sortDate": "2026-09-24T17:00:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45312",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40032",
