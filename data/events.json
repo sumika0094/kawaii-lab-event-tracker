@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-23T02:30:10.684Z",
-  "count": 101,
+  "updatedAt": "2026-09-23T15:49:02.526Z",
+  "count": 103,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -1037,6 +1037,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/45353",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT 4th single リリースイベント",
+      "eventDate": "2026-09-27",
+      "sortDate": "2026-09-27T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/45353",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45086",
       "groupName": "MORE STAR",
       "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！ / WITH KAWAII論』発売記念リリースイベント",
@@ -1090,6 +1101,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/87962",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/45354",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT 4th single リリースイベント",
+      "eventDate": "2026-09-30",
+      "sortDate": "2026-09-30T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/45354",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/40312",
