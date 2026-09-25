@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-25T02:35:52.763Z",
-  "count": 103,
+  "updatedAt": "2026-09-25T16:11:18.088Z",
+  "count": 107,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -729,6 +729,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/45467",
+      "groupName": "CUTIE STREET",
+      "eventName": "EVENT 『大特典会 in 渋谷』",
+      "eventDate": "2026-09-20 10:00",
+      "sortDate": "2026-09-20T10:00:00",
+      "venue": "ベルサール渋谷ファースト 公演日 2026.09.20[SUN] 開催場所・会場",
+      "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/45467",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/89159",
       "groupName": "CUTIE STREET",
       "eventName": "TV テレビ朝日『騒音上等!!音鳴り部』",
@@ -949,6 +960,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/91032",
+      "groupName": "CANDY TUNE",
+      "eventName": "MAGAZINE 「CanCam」11月号 (立花琴未)",
+      "eventDate": "2026-09-24",
+      "sortDate": "2026-09-24T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/91032",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45312",
       "groupName": "MORE STAR",
       "eventName": "LIVE MORE STAR 単独ライブ 5th STAR",
@@ -958,6 +980,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45312",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/91034",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV CBCテレビ「お歌詞もぐもぐ」(福山梨乃・宮野静)",
+      "eventDate": "2026-09-25",
+      "sortDate": "2026-09-25T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/91034",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40032",
@@ -1046,6 +1079,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/45353",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/45468",
+      "groupName": "CUTIE STREET",
+      "eventName": "EVENT 『大特典会 in 福岡』",
+      "eventDate": "2026-09-27",
+      "sortDate": "2026-09-27T00:00:00",
+      "venue": "博多国際展示場 3Fホール 公演日 2026.09.27[SUN] 開催場所・会",
+      "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/45468",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45086",
