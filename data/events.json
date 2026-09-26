@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-26T02:38:22.714Z",
-  "count": 107,
+  "updatedAt": "2026-09-26T15:25:06.732Z",
+  "count": 109,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -1004,6 +1004,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/45514",
+      "groupName": "SWEET STEADY",
+      "eventName": "EVENT 『りそなグループ B.LEAGUE 2026-27 広島ドラゴンフライズ戦』",
+      "eventDate": "2026-09-25 18:45",
+      "sortDate": "2026-09-25T18:45:00",
+      "venue": null,
+      "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/45514",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88251",
       "groupName": "FRUITS ZIPPER",
       "eventName": "RADIO RKBラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
@@ -1035,6 +1046,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/44997",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/45515",
+      "groupName": "SWEET STEADY",
+      "eventName": "EVENT 『3rdシングル SWEET STEP 発売記念リリースイベント』",
+      "eventDate": "2026-09-26 10:00",
+      "sortDate": "2026-09-26T10:00:00",
+      "venue": "福岡県 三井ショピングパーク ららぽーと福岡 1Fオーバルパーク 公演日 202",
+      "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/45515",
+      "publishedDate": null,
+      "sourceId": "sweet-steady"
     },
     {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45347",
