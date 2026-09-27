@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-26T15:25:06.732Z",
-  "count": 109,
+  "updatedAt": "2026-09-27T02:36:48.322Z",
+  "count": 111,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -1114,6 +1114,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/91209",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO 『CANDY TUNE 桐原美月の青色RADIO』",
+      "eventDate": "2026-09-27 11:00",
+      "sortDate": "2026-09-27T11:00:00",
+      "venue": "lucky-ibaraki.com📱 http://lucky-ibaraki",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/91209",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45086",
       "groupName": "MORE STAR",
       "eventName": "LIVE 【MORE STAR】 1st シングル『サマーゴー！！ / WITH KAWAII論』発売記念リリースイベント",
@@ -1123,6 +1134,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45086",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/91210",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
+      "eventDate": "2026-09-27 21:00",
+      "sortDate": "2026-09-27T21:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/91210",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88263",
