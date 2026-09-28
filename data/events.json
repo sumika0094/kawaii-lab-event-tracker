@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-28T02:40:21.617Z",
-  "count": 112,
+  "updatedAt": "2026-09-28T18:59:34.644Z",
+  "count": 117,
   "events": [
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88252",
@@ -1136,6 +1136,17 @@
       "sourceId": "more-star"
     },
     {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/91342",
+      "groupName": "KAWAII LAB.",
+      "eventName": "RADIO FMヨコハマ「YAMABICO in ダイナシティ」",
+      "eventDate": "2026-09-27 20:00",
+      "sortDate": "2026-09-27T20:00:00",
+      "venue": null,
+      "detailUrl": "https://kawaiilab.asobisystem.com/news/detail/91342",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/91210",
       "groupName": "CANDY TUNE",
       "eventName": "RADIO TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
@@ -1145,6 +1156,17 @@
       "detailUrl": "https://candytune.asobisystem.com/news/detail/91210",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/91379",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV NHK『ここから体操』(真中・松本)",
+      "eventDate": "2026-09-28 07:00",
+      "sortDate": "2026-09-28T07:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/91379",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88263",
@@ -1169,6 +1191,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/91378",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV NHK『ここから体操』(真中・松本)",
+      "eventDate": "2026-09-29 07:00",
+      "sortDate": "2026-09-29T07:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/91378",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/40310",
       "groupName": "CUTIE STREET",
       "eventName": "LIVE 【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】",
@@ -1178,6 +1211,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/40310",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/91343",
+      "groupName": "KAWAII LAB.",
+      "eventName": "MAGAZINE Zipper 秋号 (中森玲緒奈)",
+      "eventDate": "2026-09-30",
+      "sortDate": "2026-09-30T00:00:00",
+      "venue": null,
+      "detailUrl": "https://kawaiilab.asobisystem.com/news/detail/91343",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/87962",
@@ -1200,6 +1244,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/45354",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/91380",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV NHK『ここから体操』(真中・松本)",
+      "eventDate": "2026-09-30 07:00",
+      "sortDate": "2026-09-30T07:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/91380",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/91220",
