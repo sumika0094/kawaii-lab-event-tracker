@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-30T17:16:40.389Z",
-  "count": 75,
+  "updatedAt": "2026-10-01T03:11:18.422Z",
+  "count": 77,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -267,6 +267,17 @@
       "sourceId": "sweet-steady"
     },
     {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45755",
+      "groupName": "MORE STAR",
+      "eventName": "EVENT MILKY STAR衣装 オンライン特典会",
+      "eventDate": "2026-10-07 17:00",
+      "sortDate": "2026-10-07T17:00:00",
+      "venue": "MORE STAR YouTube👗衣装：MILKY STAR衣装▼抽選受付と",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45755",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40037",
       "groupName": "FRUITS ZIPPER",
       "eventName": "LIVE FRUITS ZIPPER JAPAN TOUR 2026 - AUTUMN -",
@@ -496,6 +507,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40039",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45756",
+      "groupName": "MORE STAR",
+      "eventName": "EVENT MILKY STAR衣装 オンライン特典会",
+      "eventDate": "2026-10-14 17:00",
+      "sortDate": "2026-10-14T17:00:00",
+      "venue": "MORE STAR YouTube👗衣装：MILKY STAR衣装▼抽選受付と",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45756",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40040",
