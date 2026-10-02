@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-02T03:13:12.535Z",
-  "count": 77,
+  "updatedAt": "2026-10-02T17:04:44.639Z",
+  "count": 80,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -111,6 +111,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88253",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/91806",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO RKBラジオ 「あまねきのねえ、聞いて？」(仮) (村川緋杏)",
+      "eventDate": "2026-10-02 23:30",
+      "sortDate": "2026-10-02T23:30:00",
+      "venue": "rkbr.jp📻 radikoはこちらhttps://radiko.jp/r_",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/91806",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/43904",
@@ -309,6 +320,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/40729",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45897",
+      "groupName": "MORE STAR",
+      "eventName": "EVENT MORE STAR lovers book 2026 by LARME オンライン特典会",
+      "eventDate": "2026-10-08 18:00",
+      "sortDate": "2026-10-08T18:00:00",
+      "venue": "MORE STAR YouTube👗衣装：MORE STAR lovers b",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45897",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40730",
@@ -529,6 +551,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40040",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45898",
+      "groupName": "MORE STAR",
+      "eventName": "EVENT MORE STAR lovers book 2026 by LARME オンライン特典会",
+      "eventDate": "2026-10-15 18:00",
+      "sortDate": "2026-10-15T18:00:00",
+      "venue": "MORE STAR YouTube👗衣装：MORE STAR lovers b",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45898",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88256",
