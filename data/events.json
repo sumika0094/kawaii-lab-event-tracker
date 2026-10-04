@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T15:26:56.969Z",
-  "count": 80,
+  "updatedAt": "2026-10-04T03:28:42.519Z",
+  "count": 82,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -201,6 +201,17 @@
       "sourceId": "more-star"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/91935",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO 『CANDY TUNE 桐原美月の青色RADIO』",
+      "eventDate": "2026-10-04 11:00",
+      "sortDate": "2026-10-04T11:00:00",
+      "venue": "lucky-ibaraki.com📱 http://lucky-ibaraki",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/91935",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/44569",
       "groupName": "KAWAII LAB.",
       "eventName": "EVENT YOKOSO！SHIZUOKA！Special LIVE in しずおか大好きまつり",
@@ -232,6 +243,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40035",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/91937",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
+      "eventDate": "2026-10-04 21:00",
+      "sortDate": "2026-10-04T21:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/91937",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/91377",
