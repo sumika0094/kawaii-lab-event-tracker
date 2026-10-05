@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T16:11:51.922Z",
-  "count": 82,
+  "updatedAt": "2026-10-05T03:06:57.183Z",
+  "count": 83,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -265,6 +265,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/91377",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/92060",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO RKKラジオ 「あまねきのねえ、聞いて？」(仮)",
+      "eventDate": "2026-10-05 23:30",
+      "sortDate": "2026-10-05T23:30:00",
+      "venue": "rkbr.jp📻 radikoはこちらhttps://radiko.jp/r_",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/92060",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88265",
