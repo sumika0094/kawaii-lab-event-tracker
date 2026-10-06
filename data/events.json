@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T03:56:11.991Z",
-  "count": 86,
+  "updatedAt": "2026-10-06T17:38:34.746Z",
+  "count": 88,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -322,6 +322,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/92231",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV 『Battle Spirits [Re] 絶海の空』(宮野静)",
+      "eventDate": "2026-10-06 23:00",
+      "sortDate": "2026-10-06T23:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/92231",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/45517",
       "groupName": "SWEET STEADY",
       "eventName": "EVENT 番組観覧『すいらぶ ~ Secret baseすいすての花園 ~』",
@@ -463,6 +474,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45672",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/92199",
+      "groupName": "KAWAII LAB.",
+      "eventName": "WEB KAWAII LAB. MATES すきトーク",
+      "eventDate": "2026-10-11 16:00",
+      "sortDate": "2026-10-11T16:00:00",
+      "venue": null,
+      "detailUrl": "https://kawaiilab.asobisystem.com/news/detail/92199",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/43487",
