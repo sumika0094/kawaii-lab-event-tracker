@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T03:06:57.183Z",
-  "count": 83,
+  "updatedAt": "2026-10-06T03:56:11.991Z",
+  "count": 86,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -269,11 +269,22 @@
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/92060",
       "groupName": "CANDY TUNE",
-      "eventName": "RADIO RKKラジオ 「あまねきのねえ、聞いて？」(仮)",
+      "eventName": "RADIO RKKラジオ 「あまねきのねえ、聞いて？」(仮)(村川緋杏)",
       "eventDate": "2026-10-05 23:30",
       "sortDate": "2026-10-05T23:30:00",
       "venue": "rkbr.jp📻 radikoはこちらhttps://radiko.jp/r_",
       "detailUrl": "https://candytune.asobisystem.com/news/detail/92060",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/92098",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO RKKラジオ(熊本放送)「あまねきのねえ、聞いて？」(仮)(村川緋杏)",
+      "eventDate": "2026-10-05 23:30",
+      "sortDate": "2026-10-05T23:30:00",
+      "venue": "rkbr.jp📻RKKラジオはこちらhttps://radiko.jp/#!/",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/92098",
       "publishedDate": null,
       "sourceId": "candy-tune"
     },
@@ -287,6 +298,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88265",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/92151",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV MBS「よんチャンTV」(福山梨乃)",
+      "eventDate": "2026-10-06 15:40",
+      "sortDate": "2026-10-06T15:40:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/92151",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40036",
@@ -714,6 +736,17 @@
       "sortDate": "2026-10-21T17:00:00",
       "venue": "Spotify O-WESTお問い合わせ先：HOT STUFF PROMOTIO",
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45476",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45999",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE サントリー ノンアルコール アイドルパーティー Vol.1 Produced by",
+      "eventDate": "2026-10-22 17:30",
+      "sortDate": "2026-10-22T17:30:00",
+      "venue": "JAM 公演日 2026.10.22[THU] 開催場所・会場 東京都 Shib",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45999",
       "publishedDate": null,
       "sourceId": "more-star"
     },
