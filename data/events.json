@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-09T03:44:32.677Z",
-  "count": 88,
+  "updatedAt": "2026-10-09T17:45:32.649Z",
+  "count": 90,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -406,6 +406,28 @@
       "sortDate": "2026-10-09T00:00:00",
       "venue": null,
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/40730",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/46148",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT 4th single 大特典会",
+      "eventDate": "2026-10-09",
+      "sortDate": "2026-10-09T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/46148",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/92543",
+      "groupName": "CANDY TUNE",
+      "eventName": "MAGAZINE 『sweet』11月号 (桐原美月)",
+      "eventDate": "2026-10-09",
+      "sortDate": "2026-10-09T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/92543",
       "publishedDate": null,
       "sourceId": "candy-tune"
     },
