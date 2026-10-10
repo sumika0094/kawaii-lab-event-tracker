@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-09T17:45:32.649Z",
-  "count": 90,
+  "updatedAt": "2026-10-10T03:26:48.602Z",
+  "count": 92,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -630,6 +630,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/46183",
+      "groupName": "CUTIE STREET",
+      "eventName": "EVENT CUTIE STREET オンライン特典会",
+      "eventDate": "2026-10-14 15:00",
+      "sortDate": "2026-10-14T15:00:00",
+      "venue": "CUTIE STREET YouTubeビンゴ当選は《各メンバー65名》‼️今回",
+      "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/46183",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45756",
       "groupName": "MORE STAR",
       "eventName": "EVENT MILKY STAR衣装 オンライン特典会",
@@ -639,6 +650,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45756",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/92575",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV テレビ朝日『朝メシまで。』",
+      "eventDate": "2026-10-14 19:00",
+      "sortDate": "2026-10-14T19:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/92575",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40040",
