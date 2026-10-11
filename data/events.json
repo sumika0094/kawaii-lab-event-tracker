@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-11T02:59:59.799Z",
-  "count": 94,
+  "updatedAt": "2026-10-11T17:03:52.629Z",
+  "count": 95,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -1013,6 +1013,17 @@
       "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/45608",
       "publishedDate": null,
       "sourceId": "kawaii-lab"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/92675",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV フジテレビ地上波『STARフェス』",
+      "eventDate": "2026-10-31 13:30",
+      "sortDate": "2026-10-31T13:30:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/92675",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/40364",
