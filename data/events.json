@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T16:38:20.478Z",
-  "count": 92,
+  "updatedAt": "2026-10-11T02:59:59.799Z",
+  "count": 94,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -498,6 +498,17 @@
       "sourceId": "more-star"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/92642",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO 『CANDY TUNE 桐原美月の青色RADIO』",
+      "eventDate": "2026-10-11 11:00",
+      "sortDate": "2026-10-11T11:00:00",
+      "venue": "lucky-ibaraki.com📱 http://lucky-ibaraki",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/92642",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/92199",
       "groupName": "KAWAII LAB.",
       "eventName": "WEB KAWAII LAB. MATES すきトーク",
@@ -529,6 +540,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40038",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/92643",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
+      "eventDate": "2026-10-11 21:00",
+      "sortDate": "2026-10-11T21:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/92643",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/45518",
