@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T03:23:10.185Z",
-  "count": 95,
+  "updatedAt": "2026-10-12T20:37:50.517Z",
+  "count": 97,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -564,6 +564,17 @@
       "sourceId": "sweet-steady"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/92692",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV テレビ朝日「START UP！ドリームエンタ」(立花琴未)",
+      "eventDate": "2026-10-12",
+      "sortDate": "2026-10-12T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/92692",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/44570",
       "groupName": "KAWAII LAB.",
       "eventName": "EVENT ぐんまちゃんアイドルフェスティバル",
@@ -716,6 +727,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88256",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56280",
+      "groupName": "KAWAII LAB.",
+      "eventName": "OTHER 🤍KAWAII LAB. MATES 加藤好実 BIRTHDAY🤍",
+      "eventDate": "2026-10-17",
+      "sortDate": "2026-10-17T00:00:00",
+      "venue": "yeolmae_kono SHARE BACK 10 17 [SAT] OTHE",
+      "detailUrl": "https://kawaiilab.asobisystem.com/news/detail/56280",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/39680",
