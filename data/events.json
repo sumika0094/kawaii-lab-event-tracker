@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T04:37:55.536Z",
-  "count": 97,
+  "updatedAt": "2026-10-13T18:41:42.143Z",
+  "count": 102,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -795,6 +795,28 @@
       "sourceId": "kawaii-lab"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/92760",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV MBS/TBS「日曜日の初耳学」(櫻井)",
+      "eventDate": "2026-10-18",
+      "sortDate": "2026-10-18T00:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/92760",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/46278",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT 小川奈々子生誕祭 オンライン特典会",
+      "eventDate": "2026-10-18",
+      "sortDate": "2026-10-18T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/46278",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/44460",
       "groupName": "SWEET STEADY",
       "eventName": "EVENT 『FM AICHI 公開録音 SWEET STEADY SPECIAL LIVE』",
@@ -806,6 +828,28 @@
       "sourceId": "sweet-steady"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/92743",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV TBS特番「KAWAIIく、バトってみた」",
+      "eventDate": "2026-10-18 15:30",
+      "sortDate": "2026-10-18T15:30:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/92743",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/46276",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT CANDY TUNE オンライン特典会",
+      "eventDate": "2026-10-19 17:00",
+      "sortDate": "2026-10-19T17:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/46276",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88267",
       "groupName": "FRUITS ZIPPER",
       "eventName": "RADIO ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
@@ -815,6 +859,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88267",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/46277",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT CANDY TUNE オンライン特典会",
+      "eventDate": "2026-10-20 17:00",
+      "sortDate": "2026-10-20T17:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/46277",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/89858",
