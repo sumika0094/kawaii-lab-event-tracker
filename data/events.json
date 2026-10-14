@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T18:41:42.143Z",
-  "count": 102,
+  "updatedAt": "2026-10-14T02:47:22.626Z",
+  "count": 103,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -914,6 +914,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45999",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/92820",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "MAGAZINE Ray 12月号(櫻井)",
+      "eventDate": "2026-10-23",
+      "sortDate": "2026-10-23T00:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/92820",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88258",
