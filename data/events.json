@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T16:12:40.623Z",
-  "count": 103,
+  "updatedAt": "2026-10-15T02:26:45.234Z",
+  "count": 105,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -718,6 +718,17 @@
       "sourceId": "more-star"
     },
     {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/92951",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV ニッポン放送『有楽町KAWAII LAB. KAWAII研究中！』",
+      "eventDate": "2026-10-15 21:30",
+      "sortDate": "2026-10-15T21:30:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/92951",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88256",
       "groupName": "FRUITS ZIPPER",
       "eventName": "RADIO RKBラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
@@ -771,6 +782,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/45207",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/92948",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV TBS「キングオブコント2026 敗者復活戦」(鎮西)",
+      "eventDate": "2026-10-17 14:00",
+      "sortDate": "2026-10-17T14:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/92948",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45673",
