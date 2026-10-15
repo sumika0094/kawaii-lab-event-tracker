@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-15T02:26:45.234Z",
-  "count": 105,
+  "updatedAt": "2026-10-15T16:00:24.116Z",
+  "count": 106,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -925,6 +925,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45476",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/93006",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV Mnet『M COUNTDOWN』",
+      "eventDate": "2026-10-22 06:00",
+      "sortDate": "2026-10-22T06:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/93006",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/45999",
