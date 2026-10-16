@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T02:20:25.213Z",
-  "count": 106,
+  "updatedAt": "2026-10-16T15:49:04.206Z",
+  "count": 107,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -956,6 +956,17 @@
       "sortDate": "2026-10-23T00:00:00",
       "venue": null,
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/92820",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/93179",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV TBS #『ハマダ歌謡祭★オオカミ少年』 (真中・松本)",
+      "eventDate": "2026-10-23 19:00",
+      "sortDate": "2026-10-23T19:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/93179",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
