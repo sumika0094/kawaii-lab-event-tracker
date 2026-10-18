@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T14:41:42.793Z",
-  "count": 109,
+  "updatedAt": "2026-10-18T02:12:55.006Z",
+  "count": 111,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -267,17 +267,6 @@
       "sourceId": "fruits-zipper"
     },
     {
-      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/92060",
-      "groupName": "CANDY TUNE",
-      "eventName": "RADIO RKKラジオ 「あまねきのねえ、聞いて？」(仮)(村川緋杏)",
-      "eventDate": "2026-10-05 23:30",
-      "sortDate": "2026-10-05T23:30:00",
-      "venue": "rkbr.jp📻 radikoはこちらhttps://radiko.jp/r_",
-      "detailUrl": "https://candytune.asobisystem.com/news/detail/92060",
-      "publishedDate": null,
-      "sourceId": "candy-tune"
-    },
-    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/92098",
       "groupName": "CANDY TUNE",
       "eventName": "RADIO RKKラジオ(熊本放送)「あまねきのねえ、聞いて？」(仮)(村川緋杏)",
@@ -285,6 +274,17 @@
       "sortDate": "2026-10-05T23:30:00",
       "venue": "rkbr.jp📻RKKラジオはこちらhttps://radiko.jp/#!/",
       "detailUrl": "https://candytune.asobisystem.com/news/detail/92098",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/92060",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO RKKラジオ 「あまねきのねえ、聞いて？」(仮)(村川緋杏)",
+      "eventDate": "2026-10-05 23:30",
+      "sortDate": "2026-10-05T23:30:00",
+      "venue": "rkbr.jp📻 radikoはこちらhttps://radiko.jp/r_",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/92060",
       "publishedDate": null,
       "sourceId": "candy-tune"
     },
@@ -850,6 +850,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/93219",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO 「CANDY TUNE 桐原美月の青色RADIO」",
+      "eventDate": "2026-10-18 11:00",
+      "sortDate": "2026-10-18T11:00:00",
+      "venue": "lucky-ibaraki.com📱 http://lucky-ibaraki",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/93219",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "SWEET STEADY__https://sweetsteady.asobisystem.com/live_information/detail/44460",
       "groupName": "SWEET STEADY",
       "eventName": "EVENT 『FM AICHI 公開録音 SWEET STEADY SPECIAL LIVE』",
@@ -868,6 +879,17 @@
       "sortDate": "2026-10-18T15:30:00",
       "venue": null,
       "detailUrl": "https://candytune.asobisystem.com/news/detail/92743",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/93220",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
+      "eventDate": "2026-10-18 21:00",
+      "sortDate": "2026-10-18T21:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/93220",
       "publishedDate": null,
       "sourceId": "candy-tune"
     },
