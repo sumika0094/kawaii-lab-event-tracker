@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T02:29:07.679Z",
-  "count": 111,
+  "updatedAt": "2026-10-19T18:00:03.560Z",
+  "count": 112,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -1011,6 +1011,17 @@
       "sortDate": "2026-10-23T23:30:00",
       "venue": "rkbr_info にて❤️FRUITS ZIPPER #月足天音RKBラジオ「",
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88258",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/46557",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "EVENT MUSIC EXPO LIVE 2026 in TAIPEI",
+      "eventDate": "2026-10-24 18:00",
+      "sortDate": "2026-10-24T18:00:00",
+      "venue": "TAIPEI ARENA (台北アリーナ) 公演日 2026.10.24[SAT",
+      "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/46557",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
