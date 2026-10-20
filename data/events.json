@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T02:42:02.629Z",
-  "count": 113,
+  "updatedAt": "2026-10-20T16:04:09.767Z",
+  "count": 114,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -991,6 +991,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/92820",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/93473",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV KBS『MusicBank』",
+      "eventDate": "2026-10-23 05:15",
+      "sortDate": "2026-10-23T05:15:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/93473",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/93179",
