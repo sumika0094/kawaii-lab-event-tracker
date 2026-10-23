@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-23T02:37:37.689Z",
-  "count": 120,
+  "updatedAt": "2026-10-23T16:09:46.224Z",
+  "count": 122,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -1004,6 +1004,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/93860",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV 「CanCam」12月号 (立花琴未)",
+      "eventDate": "2026-10-23",
+      "sortDate": "2026-10-23T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/93860",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/93473",
       "groupName": "CUTIE STREET",
       "eventName": "TV KBS『MusicBank』",
@@ -1090,6 +1101,17 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/46632",
       "publishedDate": null,
       "sourceId": "sweet-steady"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/93882",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV SBS『人気歌謡』",
+      "eventDate": "2026-10-25 03:20",
+      "sortDate": "2026-10-25T03:20:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/93882",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/93207",
