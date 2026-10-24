@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-24T02:36:00.682Z",
-  "count": 122,
+  "updatedAt": "2026-10-24T15:06:14.112Z",
+  "count": 123,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -1059,6 +1059,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/93949",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV HBC北海道放送「ライバルたちがめっちゃ褒めてくる！~アイドル同士の本音レビューＳＰ~」(桐原美月)",
+      "eventDate": "2026-10-24",
+      "sortDate": "2026-10-24T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/93949",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/93511",
       "groupName": "CUTIE STREET",
       "eventName": "TV MBC『ショー！音楽中心』",
@@ -1075,7 +1086,7 @@
       "eventName": "EVENT MUSIC EXPO LIVE 2026 in TAIPEI",
       "eventDate": "2026-10-24 18:00",
       "sortDate": "2026-10-24T18:00:00",
-      "venue": "TAIPEI ARENA (台北アリーナ) 公演日 2026.10.24[SAT",
+      "venue": "TAIPEI ARENA (台北アリーナ) ※中止 公演日 2026.10.24",
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/46557",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
