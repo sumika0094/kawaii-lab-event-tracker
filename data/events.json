@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-24T15:06:14.112Z",
-  "count": 123,
+  "updatedAt": "2026-10-25T02:23:59.219Z",
+  "count": 124,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -1134,6 +1134,17 @@
       "detailUrl": "https://kawaiilab.asobisystem.com/news/detail/93207",
       "publishedDate": null,
       "sourceId": "kawaii-lab"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/94017",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
+      "eventDate": "2026-10-25 21:00",
+      "sortDate": "2026-10-25T21:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/94017",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56290",
