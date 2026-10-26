@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-26T02:23:22.549Z",
-  "count": 124,
+  "updatedAt": "2026-10-26T17:57:44.462Z",
+  "count": 125,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -1165,6 +1165,17 @@
       "sortDate": "2026-10-26T00:00:00",
       "venue": null,
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/40731",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/94075",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV STV札幌テレビ『After TOMAKOMAI MIRAI FEST』",
+      "eventDate": "2026-10-26",
+      "sortDate": "2026-10-26T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/94075",
       "publishedDate": null,
       "sourceId": "candy-tune"
     },
