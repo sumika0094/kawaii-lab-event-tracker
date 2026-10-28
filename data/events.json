@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-27T17:04:42.295Z",
-  "count": 126,
+  "updatedAt": "2026-10-28T03:08:43.078Z",
+  "count": 127,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -1387,6 +1387,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/44317",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/46905",
+      "groupName": "MORE STAR",
+      "eventName": "EVENT キラッと！もあすた #14",
+      "eventDate": "2026-10-31 19:00",
+      "sortDate": "2026-10-31T19:00:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/46905",
+      "publishedDate": null,
+      "sourceId": "more-star"
     }
   ]
 }
