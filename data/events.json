@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-30T03:37:42.215Z",
-  "count": 127,
+  "updatedAt": "2026-10-30T17:29:51.304Z",
+  "count": 129,
   "events": [
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56434",
@@ -1356,6 +1356,17 @@
       "sourceId": "kawaii-lab"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/47010",
+      "groupName": "CANDY TUNE",
+      "eventName": "EVENT 「atmos presents SNEAKER BEST DRESSER AWARD 2026」",
+      "eventDate": "2026-10-31 12:00",
+      "sortDate": "2026-10-31T12:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/47010",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/92675",
       "groupName": "CUTIE STREET",
       "eventName": "TV フジテレビ地上波『STARフェス』",
@@ -1365,6 +1376,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/92675",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/94736",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV 読売テレビ「大和地所スペシャル 超プロ野球 ULTRA」(再放送)",
+      "eventDate": "2026-10-31 14:00",
+      "sortDate": "2026-10-31T14:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/94736",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/40364",
