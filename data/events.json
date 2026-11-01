@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T16:32:31.427Z",
-  "count": 70,
+  "updatedAt": "2026-11-01T03:20:58.522Z",
+  "count": 71,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -65,6 +65,17 @@
       "sortDate": "2026-11-03T00:00:00",
       "venue": "パシフィコ横浜展示ホールD 公演日 2026.11.03[TUE] 開催場所・会",
       "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/45469",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/94818",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV テレビ朝日系全国放送『musicるTV』(関東地区)",
+      "eventDate": "2026-11-03",
+      "sortDate": "2026-11-03T00:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/94818",
       "publishedDate": null,
       "sourceId": "cutie-street"
     },
