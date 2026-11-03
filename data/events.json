@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-03T04:39:36.160Z",
-  "count": 71,
+  "updatedAt": "2026-11-03T18:51:07.938Z",
+  "count": 76,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -80,6 +80,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/95014",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV 中京テレビ『ヒューマングルメンタリー オモウマい店』",
+      "eventDate": "2026-11-03 19:00",
+      "sortDate": "2026-11-03T19:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/95014",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
       "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/46447",
       "groupName": "MORE STAR",
       "eventName": "EVENT MORE STAR 大特典",
@@ -111,6 +122,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/94640",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/47110",
+      "groupName": "KAWAII LAB.",
+      "eventName": "LIVE KAWAII LAB. ファンクラブ限定フリーライブ",
+      "eventDate": "2026-11-06 12:00",
+      "sortDate": "2026-11-06T12:00:00",
+      "venue": "東京ガーデンシアター時間：開場 16:30 開演 18:00出演者：CANDY",
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/47110",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/46742",
@@ -223,6 +245,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/95075",
+      "groupName": "KAWAII LAB.",
+      "eventName": "WEB KAWAII LAB. MATES 11月すきトーク",
+      "eventDate": "2026-11-08 14:00",
+      "sortDate": "2026-11-08T14:00:00",
+      "venue": null,
+      "detailUrl": "https://kawaiilab.asobisystem.com/news/detail/95075",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/45614",
       "groupName": "CANDY TUNE",
       "eventName": "LIVE 『AGESTOCK2026 in WASEDA ARENA ~CANDY TUNE SPECIAL LIVE~』",
@@ -265,6 +298,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/40734",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/95048",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV テレビ朝日系全国放送『musicるTV』(関東地区)",
+      "eventDate": "2026-11-10",
+      "sortDate": "2026-11-10T00:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/95048",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56523",
@@ -573,6 +617,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/45676",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/47104",
+      "groupName": "CUTIE STREET",
+      "eventName": "EVENT 『大特典会 in 北海道』",
+      "eventDate": "2026-11-23 20:00",
+      "sortDate": "2026-11-23T20:00:00",
+      "venue": "アクセスサッポロ 公演日 2026.11.23[MON] 開催場所・会場 北海道",
+      "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/47104",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/93371",
