@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-03T18:51:07.938Z",
-  "count": 76,
+  "updatedAt": "2026-11-04T03:58:52.785Z",
+  "count": 80,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -10,6 +10,17 @@
       "sortDate": "2026-11-01T00:00:00",
       "venue": null,
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/43493",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/95089",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO 「CANDY TUNE 桐原美月の青色RADIO」",
+      "eventDate": "2026-11-01 11:00",
+      "sortDate": "2026-11-01T11:00:00",
+      "venue": "lucky-ibaraki.com📱 http://lucky-ibaraki",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/95089",
       "publishedDate": null,
       "sourceId": "candy-tune"
     },
@@ -45,6 +56,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/44318",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/95090",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
+      "eventDate": "2026-11-01 21:00",
+      "sortDate": "2026-11-01T21:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/95090",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88343",
@@ -100,6 +122,17 @@
       "detailUrl": "https://morestar.fanpla.jp/live_information/detail/46447",
       "publishedDate": null,
       "sourceId": "more-star"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/94554",
+      "groupName": "CUTIE STREET",
+      "eventName": "OTHER Amazon Music presents 『オトバズ』",
+      "eventDate": "2026-11-05",
+      "sortDate": "2026-11-05T00:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/94554",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40043",
@@ -245,6 +278,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/47131",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "LIVE FRUITS ZIPPER FANCLUB LIVE -じょい！×3-",
+      "eventDate": "2026-11-08 13:30",
+      "sortDate": "2026-11-08T13:30:00",
+      "venue": "東京都 東京ガーデンシアター時間：開場 13:30 / 開演 15:00🔗詳細",
+      "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/47131",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/95075",
       "groupName": "KAWAII LAB.",
       "eventName": "WEB KAWAII LAB. MATES 11月すきトーク",
@@ -331,6 +375,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/46338",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/95088",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV 読売テレビ「ベストヒット歌謡祭2026 」",
+      "eventDate": "2026-11-11 19:00",
+      "sortDate": "2026-11-11T19:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/95088",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/45699",
@@ -485,17 +540,6 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/40737",
       "publishedDate": null,
       "sourceId": "candy-tune"
-    },
-    {
-      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/94554",
-      "groupName": "CUTIE STREET",
-      "eventName": "OTHER Amazon Music presents 『オトバズ』",
-      "eventDate": "2026-11-19",
-      "sortDate": "2026-11-19T00:00:00",
-      "venue": null,
-      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/94554",
-      "publishedDate": null,
-      "sourceId": "cutie-street"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88341",
