@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T04:19:46.020Z",
-  "count": 80,
+  "updatedAt": "2026-11-05T19:15:50.091Z",
+  "count": 82,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -157,6 +157,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/95381",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV 読売テレビ・日本テレビ系｢見取り図の間取り図ミステリー｣(早瀬)",
+      "eventDate": "2026-11-05 22:00",
+      "sortDate": "2026-11-05T22:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/95381",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/47110",
       "groupName": "KAWAII LAB.",
       "eventName": "LIVE KAWAII LAB. ファンクラブ限定フリーライブ",
@@ -166,6 +177,17 @@
       "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/47110",
       "publishedDate": null,
       "sourceId": "kawaii-lab"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/47226",
+      "groupName": "CANDY TUNE",
+      "eventName": "LIVE 「KAWAII LAB. ファンクラブ限定フリーライブ」",
+      "eventDate": "2026-11-06 16:30",
+      "sortDate": "2026-11-06T16:30:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/live_information/detail/47226",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/46742",
@@ -309,6 +331,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/45614",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/95389",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV TBS「王様のブランチ」(鎮西・真中・松本)",
+      "eventDate": "2026-11-09 09:30",
+      "sortDate": "2026-11-09T09:30:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/95389",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/46336",
@@ -628,17 +661,6 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40049",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
-    },
-    {
-      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/45470",
-      "groupName": "CUTIE STREET",
-      "eventName": "EVENT 『大特典会 in 北海道』",
-      "eventDate": "2026-11-23",
-      "sortDate": "2026-11-23T00:00:00",
-      "venue": "アクセス札幌 公演日 2026.11.23[MON] 開催場所・会場 北海道 ア",
-      "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/45470",
-      "publishedDate": null,
-      "sourceId": "cutie-street"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43936",
