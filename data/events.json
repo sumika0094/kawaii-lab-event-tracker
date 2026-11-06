@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T04:17:38.442Z",
+  "updatedAt": "2026-11-06T18:42:35.895Z",
   "count": 84,
   "events": [
     {
@@ -234,6 +234,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/95389",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV TBS「王様のブランチ」(鎮西・真中・松本)",
+      "eventDate": "2026-11-07 09:30",
+      "sortDate": "2026-11-07T09:30:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/95389",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/44469",
       "groupName": "FRUITS ZIPPER",
       "eventName": "EVENT LARME FES'26",
@@ -342,17 +353,6 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/45614",
       "publishedDate": null,
       "sourceId": "candy-tune"
-    },
-    {
-      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/95389",
-      "groupName": "FRUITS ZIPPER",
-      "eventName": "TV TBS「王様のブランチ」(鎮西・真中・松本)",
-      "eventDate": "2026-11-09 09:30",
-      "sortDate": "2026-11-09T09:30:00",
-      "venue": null,
-      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/95389",
-      "publishedDate": null,
-      "sourceId": "fruits-zipper"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/46336",
