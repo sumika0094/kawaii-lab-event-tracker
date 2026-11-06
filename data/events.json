@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T19:15:50.091Z",
-  "count": 82,
+  "updatedAt": "2026-11-06T04:17:38.442Z",
+  "count": 84,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -276,6 +276,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/46327",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/95471",
+      "groupName": "KAWAII LAB.",
+      "eventName": "WEB すくすくめいつ",
+      "eventDate": "2026-11-07 19:00",
+      "sortDate": "2026-11-07T19:00:00",
+      "venue": "YouTube 🍼🎨 #すくすくめいつ組 配信決定💖メイツみんなで横断幕づ",
+      "detailUrl": "https://kawaiilab.asobisystem.com/news/detail/95471",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56516",
@@ -562,6 +573,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/40736",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/47255",
+      "groupName": "KAWAII LAB.",
+      "eventName": "EVENT sound stock Vol.22",
+      "eventDate": "2026-11-17 17:30",
+      "sortDate": "2026-11-17T17:30:00",
+      "venue": "Zepp Shinjuku 公演日 2026.11.17[TUE] 開催場所・会",
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/47255",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40737",
