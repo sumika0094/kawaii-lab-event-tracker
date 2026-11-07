@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-07T03:48:44.636Z",
-  "count": 84,
+  "updatedAt": "2026-11-07T17:12:04.429Z",
+  "count": 89,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -133,6 +133,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/94554",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/95596",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
+      "eventDate": "2026-11-05 01:25",
+      "sortDate": "2026-11-05T01:25:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/95596",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40043",
@@ -355,6 +366,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/95598",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV NHK特番『熱狂ライブ! MONSTER baSH 2026』",
+      "eventDate": "2026-11-09 01:20",
+      "sortDate": "2026-11-09T01:20:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/95598",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/46336",
       "groupName": "CUTIE STREET",
       "eventName": "LIVE 古澤里紗 生誕祭 2026",
@@ -452,6 +474,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/40735",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/95595",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
+      "eventDate": "2026-11-12 01:25",
+      "sortDate": "2026-11-12T01:25:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/95595",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40045",
@@ -597,6 +630,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/95597",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ朝日「FRUITS ZIPPERのNEW KAWAIIってしてよ？」",
+      "eventDate": "2026-11-19 01:25",
+      "sortDate": "2026-11-19T01:25:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/95597",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88341",
       "groupName": "FRUITS ZIPPER",
       "eventName": "RADIO RKBラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
@@ -672,6 +716,17 @@
       "detailUrl": "https://sweetsteady.asobisystem.com/live_information/detail/44465",
       "publishedDate": null,
       "sourceId": "sweet-steady"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/47292",
+      "groupName": "KAWAII LAB.",
+      "eventName": "EVENT わーすたpresents にゃんぽこらフェス！vol.3",
+      "eventDate": "2026-11-22 09:00",
+      "sortDate": "2026-11-22T09:00:00",
+      "venue": "ステラボール 公演日 2026.11.22[SUN] 開催場所・会場 東京都 ス",
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/47292",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/40049",
