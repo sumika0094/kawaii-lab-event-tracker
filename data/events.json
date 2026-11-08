@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-08T03:29:09.464Z",
-  "count": 89,
+  "updatedAt": "2026-11-08T17:25:24.690Z",
+  "count": 91,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -740,6 +740,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/95695",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV フジテレビ『千鳥の鬼レンチャン』",
+      "eventDate": "2026-11-22 19:00",
+      "sortDate": "2026-11-22T19:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/95695",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43936",
       "groupName": "KAWAII LAB.",
       "eventName": "EVENT ちかっぱ祭2026",
@@ -967,6 +978,17 @@
       "sortDate": "2026-11-29T14:30:00",
       "venue": "愛知県 IGアリーナお問い合わせ先：サンデーフォークプロモーション(052-32",
       "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/40369",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/95696",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV フジテレビ『千鳥の鬼レンチャン』",
+      "eventDate": "2026-11-29 19:00",
+      "sortDate": "2026-11-29T19:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/95696",
       "publishedDate": null,
       "sourceId": "cutie-street"
     },
