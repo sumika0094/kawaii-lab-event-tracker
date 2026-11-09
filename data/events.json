@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T03:44:51.616Z",
-  "count": 91,
+  "updatedAt": "2026-11-09T21:46:39.301Z",
+  "count": 99,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -333,6 +333,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/95747",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO 「CANDY TUNE 桐原美月の青色RADIO」",
+      "eventDate": "2026-11-08 11:00",
+      "sortDate": "2026-11-08T11:00:00",
+      "venue": "lucky-ibaraki.com📱 http://lucky-ibaraki",
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/95747",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/47131",
       "groupName": "FRUITS ZIPPER",
       "eventName": "LIVE FRUITS ZIPPER FANCLUB LIVE -じょい！×3-",
@@ -362,6 +373,17 @@
       "sortDate": "2026-11-08T16:00:00",
       "venue": null,
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/45614",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/95748",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
+      "eventDate": "2026-11-08 21:00",
+      "sortDate": "2026-11-08T21:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/95748",
       "publishedDate": null,
       "sourceId": "candy-tune"
     },
@@ -520,6 +542,28 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/95749",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV TBS「王様のブランチ」(小川奈々子・宮野静)",
+      "eventDate": "2026-11-14 09:30",
+      "sortDate": "2026-11-14T09:30:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/95749",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/95750",
+      "groupName": "CANDY TUNE",
+      "eventName": "WEB CANDY TUNE オンライン特典会",
+      "eventDate": "2026-11-14 15:00",
+      "sortDate": "2026-11-14T15:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/95750",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/40366",
       "groupName": "CUTIE STREET",
       "eventName": "LIVE 【CUTIE STREET JAPAN ARENA TOUR 2026 -AUTUMN-】",
@@ -540,6 +584,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40046",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/47383",
+      "groupName": "KAWAII LAB.",
+      "eventName": "EVENT 『URAHARA FES. 2026 -AUTUMN-』",
+      "eventDate": "2026-11-15 12:20",
+      "sortDate": "2026-11-15T12:20:00",
+      "venue": null,
+      "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/47383",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/40367",
@@ -586,6 +641,17 @@
       "sourceId": "sweet-steady"
     },
     {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/47369",
+      "groupName": "MORE STAR",
+      "eventName": "EVENT ☀️Dreamy衣装💫 オンライン特典会",
+      "eventDate": "2026-11-16 18:00",
+      "sortDate": "2026-11-16T18:00:00",
+      "venue": "MORE STAR YouTube11/16(月)18:00~(予定)🧡新井\ud83e",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/47369",
+      "publishedDate": null,
+      "sourceId": "more-star"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88345",
       "groupName": "FRUITS ZIPPER",
       "eventName": "RADIO ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
@@ -617,6 +683,17 @@
       "detailUrl": "https://kawaiilab.asobisystem.com/live_information/detail/47255",
       "publishedDate": null,
       "sourceId": "kawaii-lab"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/47370",
+      "groupName": "MORE STAR",
+      "eventName": "EVENT ☀️Dreamy衣装💫 オンライン特典会",
+      "eventDate": "2026-11-18 18:00",
+      "sortDate": "2026-11-18T18:00:00",
+      "venue": "MORE STAR YouTube11/16(月)18:00~(予定)🧡新井\ud83e",
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/47370",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40737",
@@ -932,10 +1009,21 @@
       "eventName": "EVENT 「GIFT ~Girls Idol Festival Tokyo~」",
       "eventDate": "2026-11-28 11:30",
       "sortDate": "2026-11-28T11:30:00",
-      "venue": null,
+      "venue": "TOYOTA ARENA TOKYO⏰出演時間：14:20~15:10🎪会場：",
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/45190",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/47367",
+      "groupName": "MORE STAR",
+      "eventName": "LIVE GIFT~Girls Idol Festival Tokyo~ DAY2",
+      "eventDate": "2026-11-28 11:30",
+      "sortDate": "2026-11-28T11:30:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/47367",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/40368",
