@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-10T05:19:00.155Z",
-  "count": 99,
+  "updatedAt": "2026-11-10T19:05:04.594Z",
+  "count": 100,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -441,6 +441,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/95048",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/95858",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV テレビ東京『KAWAII FARM』(真中)",
+      "eventDate": "2026-11-10 02:35",
+      "sortDate": "2026-11-10T02:35:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/95858",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56523",
