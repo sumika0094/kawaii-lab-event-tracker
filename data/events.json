@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-11T03:50:37.770Z",
-  "count": 101,
+  "updatedAt": "2026-11-11T19:02:18.786Z",
+  "count": 103,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -740,6 +740,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/96005",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV 関西テレビ『さんまのまんま』",
+      "eventDate": "2026-11-20 21:00",
+      "sortDate": "2026-11-20T21:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/96005",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88341",
       "groupName": "FRUITS ZIPPER",
       "eventName": "RADIO RKBラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
@@ -793,6 +804,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40048",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/96086",
+      "groupName": "CUTIE STREET",
+      "eventName": "OTHER 配信『ROCK IN JAPAN FESTIVAL 2026』",
+      "eventDate": "2026-11-21 17:00",
+      "sortDate": "2026-11-21T17:00:00",
+      "venue": "rockinon⏰配信時間《リアルタイム》配信：11/21(土)17:00~《ア",
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/96086",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/44263",
