@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-10T19:05:04.594Z",
-  "count": 100,
+  "updatedAt": "2026-11-11T03:50:37.770Z",
+  "count": 101,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -463,6 +463,17 @@
       "detailUrl": "https://kawaiilab.asobisystem.com/news/detail/56523",
       "publishedDate": null,
       "sourceId": "kawaii-lab"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/95939",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV 小学館『週間少年サンデー』",
+      "eventDate": "2026-11-11",
+      "sortDate": "2026-11-11T00:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/95939",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/46338",
