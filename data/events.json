@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-11T19:02:18.786Z",
-  "count": 103,
+  "updatedAt": "2026-11-12T04:58:37.289Z",
+  "count": 115,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -377,6 +377,17 @@
       "sourceId": "candy-tune"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96122",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO MROラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-11-08 19:30",
+      "sortDate": "2026-11-08T19:30:00",
+      "venue": "mro_voice にて❤️FRUITS ZIPPER #月足天音ラジオ「あまね",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96122",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/95748",
       "groupName": "CANDY TUNE",
       "eventName": "RADIO TOKYO FM 「CANDY TUNE TOKYO CANDY NIGHT」",
@@ -410,6 +421,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96117",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO RKKラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-11-09 23:00",
+      "sortDate": "2026-11-09T23:00:00",
+      "venue": "rkk_radio にて❤️FRUITS ZIPPER #月足天音ラジオ「あまね",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96117",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88344",
       "groupName": "FRUITS ZIPPER",
       "eventName": "RADIO ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
@@ -417,6 +439,17 @@
       "sortDate": "2026-11-10T00:00:00",
       "venue": null,
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88344",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96113",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO MBSラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-11-10",
+      "sortDate": "2026-11-10T00:00:00",
+      "venue": "1179mbs にて❤️FRUITS ZIPPER #月足天音ラジオ「あまねきの",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96113",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
@@ -553,6 +586,17 @@
       "sourceId": "sweet-steady"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/96135",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV NHK「#てれふく 」(立花琴未)",
+      "eventDate": "2026-11-13 19:30",
+      "sortDate": "2026-11-13T19:30:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/96135",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88340",
       "groupName": "FRUITS ZIPPER",
       "eventName": "RADIO RKBラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
@@ -641,6 +685,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96123",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO MROラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-11-15 19:30",
+      "sortDate": "2026-11-15T19:30:00",
+      "venue": "mro_voice にて❤️FRUITS ZIPPER #月足天音ラジオ「あまね",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96123",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/92819",
       "groupName": "FRUITS ZIPPER",
       "eventName": "RADIO さめラジ！(早瀬)",
@@ -674,6 +729,17 @@
       "sourceId": "more-star"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96118",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO RKKラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-11-16 23:00",
+      "sortDate": "2026-11-16T23:00:00",
+      "venue": "rkk_radio にて❤️FRUITS ZIPPER #月足天音ラジオ「あまね",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96118",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/88345",
       "groupName": "FRUITS ZIPPER",
       "eventName": "RADIO ニッポン放送「FRUITS ZIPPERのオールナイトニッポンX」",
@@ -681,6 +747,17 @@
       "sortDate": "2026-11-17T00:00:00",
       "venue": null,
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88345",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96114",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO MBSラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-11-17",
+      "sortDate": "2026-11-17T00:00:00",
+      "venue": "1179mbs にて❤️FRUITS ZIPPER #月足天音ラジオ「あまねきの",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96114",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
@@ -872,6 +949,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96124",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO MROラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-11-22 19:30",
+      "sortDate": "2026-11-22T19:30:00",
+      "venue": "mro_voice にて❤️FRUITS ZIPPER #月足天音ラジオ「あまね",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96124",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/43936",
       "groupName": "KAWAII LAB.",
       "eventName": "EVENT ちかっぱ祭2026",
@@ -916,6 +1004,17 @@
       "sourceId": "kawaii-lab"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96119",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO RKKラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-11-23 23:00",
+      "sortDate": "2026-11-23T23:00:00",
+      "venue": "rkk_radio にて❤️FRUITS ZIPPER #月足天音ラジオ「あまね",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96119",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/56293",
       "groupName": "KAWAII LAB.",
       "eventName": "OTHER 🧡FRUITS ZIPPER 鎮西寿々歌 BIRTHDAY🧡",
@@ -934,6 +1033,17 @@
       "sortDate": "2026-11-24T00:00:00",
       "venue": null,
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/88346",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96115",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO MBSラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-11-24",
+      "sortDate": "2026-11-24T00:00:00",
+      "venue": "1179mbs にて❤️FRUITS ZIPPER #月足天音ラジオ「あまねきの",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96115",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
@@ -1125,6 +1235,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96126",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO MROラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-11-29 19:30",
+      "sortDate": "2026-11-29T19:30:00",
+      "venue": "mro_voice にて❤️FRUITS ZIPPER #月足天音ラジオ「あまね",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96126",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/40740",
       "groupName": "CANDY TUNE",
       "eventName": "LIVE 「CANDY TUNE JAPAN TOUR 2026 - AUTUMN -」福岡公演",
@@ -1134,6 +1255,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/40740",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96121",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "RADIO RKKラジオ「あまねきのねえ、聞いて？」(仮)(月足)",
+      "eventDate": "2026-11-30 23:00",
+      "sortDate": "2026-11-30T23:00:00",
+      "venue": "rkk_radio にて❤️FRUITS ZIPPER #月足天音ラジオ「あまね",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96121",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     }
   ]
 }
