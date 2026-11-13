@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-13T04:11:37.177Z",
-  "count": 115,
+  "updatedAt": "2026-11-13T18:58:52.564Z",
+  "count": 117,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -608,6 +608,17 @@
       "sourceId": "fruits-zipper"
     },
     {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96175",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV フジテレビ『めざましどようび』(松本・真中)",
+      "eventDate": "2026-11-14 06:00",
+      "sortDate": "2026-11-14T06:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96175",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/95749",
       "groupName": "CANDY TUNE",
       "eventName": "TV TBS「王様のブランチ」(小川奈々子・宮野静)",
@@ -650,6 +661,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40046",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "MORE STAR__https://morestar.fanpla.jp/live_information/detail/47520",
+      "groupName": "MORE STAR",
+      "eventName": "EVENT キラッと！もあすた #15",
+      "eventDate": "2026-11-14 19:00",
+      "sortDate": "2026-11-14T19:00:00",
+      "venue": null,
+      "detailUrl": "https://morestar.fanpla.jp/live_information/detail/47520",
+      "publishedDate": null,
+      "sourceId": "more-star"
     },
     {
       "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/live_information/detail/47383",
