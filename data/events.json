@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T04:08:30.495Z",
-  "count": 117,
+  "updatedAt": "2026-11-14T17:30:05.765Z",
+  "count": 119,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -837,6 +837,28 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/95597",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/47537",
+      "groupName": "CUTIE STREET",
+      "eventName": "EVENT 1st アルバム オンラインサイン会",
+      "eventDate": "2026-11-20 12:00",
+      "sortDate": "2026-11-20T12:00:00",
+      "venue": "CUTIE STREET YouTube 公演日 2026.11.20[FRI]",
+      "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/47537",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/96443",
+      "groupName": "CANDY TUNE",
+      "eventName": "TV TBS「ハマダ歌謡祭★オオカミ少年」(村川緋杏 ・桐原美月)",
+      "eventDate": "2026-11-20 19:00",
+      "sortDate": "2026-11-20T19:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/96443",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/96005",
