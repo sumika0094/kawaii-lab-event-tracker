@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T03:54:19.113Z",
-  "count": 119,
+  "updatedAt": "2026-11-15T18:15:16.833Z",
+  "count": 120,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -837,6 +837,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/95597",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/96460",
+      "groupName": "CUTIE STREET",
+      "eventName": "TV TBSテレビ『ニンゲン観察バラエティ モニタリング』",
+      "eventDate": "2026-11-19 19:00",
+      "sortDate": "2026-11-19T19:00:00",
+      "venue": null,
+      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/96460",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/47537",
