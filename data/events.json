@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T05:47:13.341Z",
-  "count": 123,
+  "updatedAt": "2026-11-17T20:15:39.039Z",
+  "count": 124,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -1145,6 +1145,17 @@
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/40738",
       "publishedDate": null,
       "sourceId": "candy-tune"
+    },
+    {
+      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/47626",
+      "groupName": "CUTIE STREET",
+      "eventName": "EVENT オンライン特典会",
+      "eventDate": "2026-11-24 15:30",
+      "sortDate": "2026-11-24T15:30:00",
+      "venue": "CUTIE STREET YouTube 公演日 2026.11.24[TUE]",
+      "detailUrl": "https://cutiestreet.asobisystem.com/live_information/detail/47626",
+      "publishedDate": null,
+      "sourceId": "cutie-street"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/live_information/detail/45704",
