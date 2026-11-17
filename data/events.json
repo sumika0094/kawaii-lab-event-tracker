@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T21:27:24.504Z",
-  "count": 122,
+  "updatedAt": "2026-11-17T05:47:13.341Z",
+  "count": 123,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -859,6 +859,17 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/95597",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "KAWAII LAB.__https://kawaiilab.asobisystem.com/news/detail/96629",
+      "groupName": "KAWAII LAB.",
+      "eventName": "RADIO ラジオ日本『60TRY部』(加藤・横山)",
+      "eventDate": "2026-11-19 18:00",
+      "sortDate": "2026-11-19T18:00:00",
+      "venue": "try1422#KAWAIILAB#カワラボメイツ SHARE BACK 11",
+      "detailUrl": "https://kawaiilab.asobisystem.com/news/detail/96629",
+      "publishedDate": null,
+      "sourceId": "kawaii-lab"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/96460",
