@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-18T19:46:35.677Z",
-  "count": 124,
+  "updatedAt": "2026-11-19T05:07:01.445Z",
+  "count": 125,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -881,6 +881,17 @@
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/96460",
       "publishedDate": null,
       "sourceId": "cutie-street"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96838",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "MAGAZINE 『JUNON』1月号(真中)",
+      "eventDate": "2026-11-20",
+      "sortDate": "2026-11-20T00:00:00",
+      "venue": "JUNON_jp SHARE BACK <iframe src=\"//b.yjt",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96838",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
     },
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/live_information/detail/47537",
