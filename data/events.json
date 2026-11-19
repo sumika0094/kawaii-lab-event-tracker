@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T05:07:01.445Z",
-  "count": 125,
+  "updatedAt": "2026-11-19T19:47:10.481Z",
+  "count": 127,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -883,6 +883,17 @@
       "sourceId": "cutie-street"
     },
     {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/96885",
+      "groupName": "CANDY TUNE",
+      "eventName": "RADIO FM熊本・FM長崎「ASOBI RADIO Q」(南なつ・立花琴未)",
+      "eventDate": "2026-11-19 20:30",
+      "sortDate": "2026-11-19T20:30:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/96885",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96838",
       "groupName": "FRUITS ZIPPER",
       "eventName": "MAGAZINE 『JUNON』1月号(真中)",
@@ -1055,6 +1066,17 @@
       "sortDate": "2026-11-22T19:30:00",
       "venue": "mro_voice にて❤️FRUITS ZIPPER #月足天音ラジオ「あまね",
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96124",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96940",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "TV ABCテレビ「ポツンと一軒家」(櫻井)",
+      "eventDate": "2026-11-22 19:54",
+      "sortDate": "2026-11-22T19:54:00",
+      "venue": "potsun_abctv SHARE BACK <iframe src=\"//b",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96940",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
