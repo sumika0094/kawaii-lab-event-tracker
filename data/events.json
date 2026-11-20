@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T19:47:10.481Z",
-  "count": 127,
+  "updatedAt": "2026-11-20T04:57:04.431Z",
+  "count": 129,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -901,6 +901,28 @@
       "sortDate": "2026-11-20T00:00:00",
       "venue": "JUNON_jp SHARE BACK <iframe src=\"//b.yjt",
       "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96838",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96941",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "MAGAZINE 『Ray 1月号』(櫻井)",
+      "eventDate": "2026-11-20",
+      "sortDate": "2026-11-20T00:00:00",
+      "venue": null,
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96941",
+      "publishedDate": null,
+      "sourceId": "fruits-zipper"
+    },
+    {
+      "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96942",
+      "groupName": "FRUITS ZIPPER",
+      "eventName": "MAGAZINE ViVi 1月号(鎮西)",
+      "eventDate": "2026-11-20",
+      "sortDate": "2026-11-20T00:00:00",
+      "venue": "vivi_magazine SHARE BACK <iframe src=\"//",
+      "detailUrl": "https://fruitszipper.asobisystem.com/news/detail/96942",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
     },
