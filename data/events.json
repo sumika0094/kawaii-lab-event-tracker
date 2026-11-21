@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-21T04:52:37.113Z",
-  "count": 131,
+  "updatedAt": "2026-11-21T18:29:33.550Z",
+  "count": 130,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -874,7 +874,7 @@
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/96460",
       "groupName": "CUTIE STREET",
-      "eventName": "TV TBSテレビ『ニンゲン観察バラエティ モニタリング』",
+      "eventName": "TV TBSテレビ『ニンゲン観察バラエティ モニタリング』(古澤・梅田)",
       "eventDate": "2026-11-19 19:00",
       "sortDate": "2026-11-19T19:00:00",
       "venue": null,
@@ -973,7 +973,7 @@
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/97167",
       "groupName": "CUTIE STREET",
-      "eventName": "TV テレビQ九州『土曜のド！』",
+      "eventName": "TV テレビQ九州『土曜のド！』(増田・梅田・桜庭)",
       "eventDate": "2026-11-21 11:00",
       "sortDate": "2026-11-21T11:00:00",
       "venue": null,
@@ -1079,17 +1079,6 @@
       "detailUrl": "https://fruitszipper.asobisystem.com/live_information/detail/40049",
       "publishedDate": null,
       "sourceId": "fruits-zipper"
-    },
-    {
-      "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/95695",
-      "groupName": "CUTIE STREET",
-      "eventName": "TV フジテレビ『千鳥の鬼レンチャン』",
-      "eventDate": "2026-11-22 19:00",
-      "sortDate": "2026-11-22T19:00:00",
-      "venue": null,
-      "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/95695",
-      "publishedDate": null,
-      "sourceId": "cutie-street"
     },
     {
       "id": "FRUITS ZIPPER__https://fruitszipper.asobisystem.com/news/detail/96124",
@@ -1292,10 +1281,10 @@
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/97192",
       "groupName": "CUTIE STREET",
-      "eventName": "OTHER KAWAII LAB. リズムゲームプロジェクト",
+      "eventName": "OTHER 『KAWAII LAB. リズムゲームプロジェクト』 (桜庭)",
       "eventDate": "2026-11-26 20:00",
       "sortDate": "2026-11-26T20:00:00",
-      "venue": "KAWAII LAB.【公式】ゲームプロジェクト YouTube 🎥✨KAWA",
+      "venue": "kawaiilab_newgamepj SHARE BACK 11 26 [TH",
       "detailUrl": "https://cutiestreet.asobisystem.com/news/detail/97192",
       "publishedDate": null,
       "sourceId": "cutie-street"
@@ -1402,7 +1391,7 @@
     {
       "id": "CUTIE STREET__https://cutiestreet.asobisystem.com/news/detail/95696",
       "groupName": "CUTIE STREET",
-      "eventName": "TV フジテレビ『千鳥の鬼レンチャン』",
+      "eventName": "TV フジテレビ『千鳥の鬼レンチャン』(増田・真鍋)",
       "eventDate": "2026-11-29 19:00",
       "sortDate": "2026-11-29T19:00:00",
       "venue": null,
