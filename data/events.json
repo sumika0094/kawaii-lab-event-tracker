@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-23T23:06:46.336Z",
-  "count": 130,
+  "updatedAt": "2026-11-24T07:40:53.996Z",
+  "count": 131,
   "events": [
     {
       "id": "CANDY TUNE__https://candytune.asobisystem.com/live_information/detail/43493",
@@ -1198,6 +1198,17 @@
       "sortDate": "2026-11-24T00:00:00",
       "venue": null,
       "detailUrl": "https://candytune.asobisystem.com/live_information/detail/40738",
+      "publishedDate": null,
+      "sourceId": "candy-tune"
+    },
+    {
+      "id": "CANDY TUNE__https://candytune.asobisystem.com/news/detail/97438",
+      "groupName": "CANDY TUNE",
+      "eventName": "MAGAZINE 「MARQUEE Vol.164」(村川緋杏)",
+      "eventDate": "2026-11-24",
+      "sortDate": "2026-11-24T00:00:00",
+      "venue": null,
+      "detailUrl": "https://candytune.asobisystem.com/news/detail/97438",
       "publishedDate": null,
       "sourceId": "candy-tune"
     },
